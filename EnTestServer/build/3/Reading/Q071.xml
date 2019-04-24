@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">The husband and the wife go shopping ___.</content>
+      <choice id="A">by bus</choice>
+      <choice id="B">in their car</choice>
+      <choice id="C">by bike</choice>
+      <choice id="D">on foot</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">They spend about ___ in the shop doing their shopping.</content>
+      <choice id="A">half an hour</choice>
+      <choice id="B">four hours</choice>
+      <choice id="C">one hour</choice>
+      <choice id="D">eight hours</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">The ___ opens the car door in the end.</content>
+      <choice id="A">husband</choice>
+      <choice id="B">wife</choice>
+      <choice id="C">policeman</choice>
+      <choice id="D">owner of the car</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">The owner of the car is very angry to see ___.</content>
+      <choice id="A">someone opens his car door</choice>
+      <choice id="B">the policeman standing by the car</choice>
+      <choice id="C">his car is not there</choice>
+      <choice id="D">that there is a trouble</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">They don't know it is the wrong car until they look at the ___ of the car.</content>
+      <choice id="A">colour</choice>
+      <choice id="B">owner</choice>
+      <choice id="C">door</choice>
+      <choice id="D">number</choice>
+   </question>
+
+</questions>

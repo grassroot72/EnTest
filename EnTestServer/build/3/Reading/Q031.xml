@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="TF" id="1">
+      <content key="( F )">Every animal has two legs</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="2">
+      <content key="( T )">Not all animals have four legs</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="3">
+      <content key="( F )">A snake has one leg and a bee has six legs.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="4">
+      <content key="( T )">A bird has two legs and a crab has ten legs.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="5">
+      <content key="( F )">Spiders are insects.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="6">
+      <content key="( T )">A centipede has more than ten legs.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+</questions>

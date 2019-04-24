@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">When is Mother's Day? It is the ___ Sunday in May.</content>
+      <choice id="A">first</choice>
+      <choice id="B">second</choice>
+      <choice id="C">third</choice>
+      <choice id="D">fourth</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Mother's Day is a special day for ___.</content>
+      <choice id="A">fathers</choice>
+      <choice id="B">mothers</choice>
+      <choice id="C">sisters</choice>
+      <choice id="D">brothers</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">What can you give to your mother on Mother's Day? ___.</content>
+      <choice id="A">Carnations</choice>
+      <choice id="B">Cards</choice>
+      <choice id="C">Medicine</choice>
+      <choice id="D">A or B</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">You can give your mother a warm hug ___ Mother's Day.</content>
+      <choice id="A">on</choice>
+      <choice id="B">in</choice>
+      <choice id="C">at</choice>
+      <choice id="D">beside</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">Some families go ___ for lunch or dinner on Mother's Day.</content>
+      <choice id="A">in</choice>
+      <choice id="B">for</choice>
+      <choice id="C">to</choice>
+      <choice id="D">out</choice>
+   </question>
+
+</questions>

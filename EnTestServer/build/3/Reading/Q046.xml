@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">The boy's father is a ___.</content>
+      <choice id="A">farmer</choice>
+      <choice id="B">worker</choice>
+      <choice id="C">teacher</choice>
+      <choice id="D">policeman</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">The boy wants to ___ the worker.</content>
+      <choice id="A">play with</choice>
+      <choice id="B">fool</choice>
+      <choice id="C">help</choice>
+      <choice id="D">care for</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">"Get along with you" means "___".</content>
+      <choice id="A">I'll go with you.</choice>
+      <choice id="B">Don't stay here. Go away.</choice>
+      <choice id="C">I can get it out.</choice>
+      <choice id="D">There's nothing here.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">The worker tries his best to ___.</content>
+      <choice id="A">clean the sewer</choice>
+      <choice id="B">help the boy</choice>
+      <choice id="C">find the gold watch</choice>
+      <choice id="D">finish the work</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">Which of the following is NOT true?</content>
+      <choice id="A">The boy finds the gold watch himself.</choice>
+      <choice id="B">The boy's mother drops a gold watch down the sewer.</choice>
+      <choice id="C">The worker wants to get the watch out.</choice>
+      <choice id="D">The boy's father gets the watch out already.</choice>
+   </question>
+
+</questions>

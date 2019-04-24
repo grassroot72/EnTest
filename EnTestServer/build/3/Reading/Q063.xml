@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="TF" id="1">
+      <content key="( F )">The doctor asks the old man to count the sheep.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="2">
+      <content key="( F )">The old man gets better after a few days.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="3">
+      <content key="( T )">The old man can count over ten.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="4">
+      <content key="( F )">The old man can only count to eight because he only knows eight numbers.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="5">
+      <content key="( T )">The doctor doesn't know that old man is a boxer when he is young.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+</questions>

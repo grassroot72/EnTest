@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">What colour is Linda's hair?</content>
+      <choice id="A">Red.</choice>
+      <choice id="B">Blue.</choice>
+      <choice id="C">Black.</choice>
+      <choice id="D">Brown.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">What is Linda's son's name?</content>
+      <choice id="A">Brown.</choice>
+      <choice id="B">Peter.</choice>
+      <choice id="C">David.</choice>
+      <choice id="D">Henry.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">What is Mr. Brown doing in his room?</content>
+      <choice id="A">He is watching TV.</choice>
+      <choice id="B">He is reading a book.</choice>
+      <choice id="C">He is listening to the radio</choice>
+      <choice id="D">He is singing.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Mr. Brown has little hair, and he ___.</content>
+      <choice id="A">is tall</choice>
+      <choice id="B">is short</choice>
+      <choice id="C">thinks a lot</choice>
+      <choice id="D">is old</choice>
+   </question>
+
+</questions>

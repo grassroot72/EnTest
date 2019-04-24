@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">One day a sheep is ___ near a river.</content>
+      <choice id="A">walking</choice>
+      <choice id="B">drinking</choice>
+      <choice id="C">sleeping</choice>
+      <choice id="D">eating</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">The wolf wants to eat ___.</content>
+      <choice id="A">the grass</choice>
+      <choice id="B">the sheep</choice>
+      <choice id="C">the fish</choice>
+      <choice id="D">nothing</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">The wolf says he can't ___.</content>
+      <choice id="A">drink the juice</choice>
+      <choice id="B">drink the water</choice>
+      <choice id="C">eat the grass</choice>
+      <choice id="D">eat the meat</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">The wolf rushes at the sheep and ___.</content>
+      <choice id="A">helps it</choice>
+      <choice id="B">plays with it</choice>
+      <choice id="C">eats it</choice>
+      <choice id="D">beats it</choice>
+   </question>
+
+</questions>

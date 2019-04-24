@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">Where does Jack probably buy a piece of meat?</content>
+      <choice id="A">In a big shop.</choice>
+      <choice id="B">In a restaurant.</choice>
+      <choice id="C">At a butcher's shop.</choice>
+      <choice id="D">In a busy street.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">The butcher tells Jack how to cook meat because ___.</content>
+      <choice id="A">Jack isn't good at cooking</choice>
+      <choice id="B">Jack buys a piece of meat in his shop</choice>
+      <choice id="C">Jack never has meat before</choice>
+      <choice id="D">Jack doesn't know the way of cooking</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">What does Jack ask the butcher to do?</content>
+      <choice id="A">To tell him again and again.</choice>
+      <choice id="B">To write down his words on paper.</choice>
+      <choice id="C">To teach him several time.</choice>
+      <choice id="D">To put a note in his pocket.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">From the story we can see ___.</content>
+      <choice id="A">Jack is very foolish</choice>
+      <choice id="B">Jack hates dogs very much</choice>
+      <choice id="C">The dog is very clever</choice>
+      <choice id="D">The dog doesn't know how to eat meat</choice>
+   </question>
+
+</questions>

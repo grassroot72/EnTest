@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">The man tells the policeman that he finds the penguin ___.</content>
+      <choice id="A">long before</choice>
+      <choice id="B">before long</choice>
+      <choice id="C">that morning</choice>
+      <choice id="D">that evening</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">The policeman tells the man ___.</content>
+      <choice id="A">to take the penguin home</choice>
+      <choice id="B">to send the penguin to the zoo</choice>
+      <choice id="C">not to go to the cinema</choice>
+      <choice id="D">not to walk in the park</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">The policeman meets the man ___.</content>
+      <choice id="A">that day again</choice>
+      <choice id="B">the next day again</choice>
+      <choice id="C">the day before</choice>
+      <choice id="D">several days later</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">The policeman is ___ to find the man still holding the penguin.</content>
+      <choice id="A">surprised</choice>
+      <choice id="B">fearless</choice>
+      <choice id="C">happy</choice>
+      <choice id="D">pleased</choice>
+   </question>
+
+</questions>

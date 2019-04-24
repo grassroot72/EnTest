@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">I don't go to ___ on Sundays.</content>
+      <choice id="A">the airport</choice>
+      <choice id="B">the park</choice>
+      <choice id="C">school</choice>
+      <choice id="D">the cinema</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Where does the bus stop?</content>
+      <choice id="A">It stops at a small village.</choice>
+      <choice id="B">It stops at a shop.</choice>
+      <choice id="C">It stops at a city.</choice>
+      <choice id="D">It stops at a hill.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">What does the bus driver want to close?</content>
+      <choice id="A">The door of the bus.</choice>
+      <choice id="B">The window of the bus.</choice>
+      <choice id="C">The road.</choice>
+      <choice id="D">The village.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Who is the bus waiting for at last?</content>
+      <choice id="A">The old woman.</choice>
+      <choice id="B">The bus driver.</choice>
+      <choice id="C">The mother of the old woman.</choice>
+      <choice id="D">Me.</choice>
+   </question>
+
+</questions>

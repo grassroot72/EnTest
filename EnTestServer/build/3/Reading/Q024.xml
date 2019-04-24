@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">The students are having ___ class.</content>
+      <choice id="A">a maths</choice>
+      <choice id="B">an English</choice>
+      <choice id="C">a Chinese</choice>
+      <choice id="D">a Japanese</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Why is the teacher happy that day?</content>
+      <choice id="A">Because the students are at school.</choice>
+      <choice id="B">Because the students work hard.</choice>
+      <choice id="C">Because the students like her.</choice>
+      <choice id="D">Because she could write a word.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">The teacher writes ___ on the blackboard.</content>
+      <choice id="A">a word</choice>
+      <choice id="B">some words</choice>
+      <choice id="C">a letter</choice>
+      <choice id="D">four letters</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">What does the word "mile" mean?</content>
+      <choice id="A">长</choice>
+      <choice id="B">困难</choice>
+      <choice id="C">短</choice>
+      <choice id="D">英里</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">In fact, the word "smiles" isn't ___.</content>
+      <choice id="A">easy</choice>
+      <choice id="B">short</choice>
+      <choice id="C">long</choice>
+      <choice id="D">hard</choice>
+   </question>
+
+</questions>

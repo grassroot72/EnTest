@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">Where do I want to visit? I want to visit ___.</content>
+      <choice id="A">Beijing</choice>
+      <choice id="B">Shanghai</choice>
+      <choice id="C">London</choice>
+      <choice id="D">Guangzhou</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">First I want to see ___.</content>
+      <choice id="A">the Big Ben</choice>
+      <choice id="B">the Great Wall</choice>
+      <choice id="C">some flowers</choice>
+      <choice id="D">some trees</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">The Big Ben is very ___.</content>
+      <choice id="A">big</choice>
+      <choice id="B">old</choice>
+      <choice id="C">small</choice>
+      <choice id="D">strong</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Which one is the so-called "伦敦眼"? ___.</content>
+      <choice id="A">The London Eye</choice>
+      <choice id="B">The Big Ben</choice>
+      <choice id="C">The Great Wall</choice>
+      <choice id="D">The tower</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">I want to see ___ at last.</content>
+      <choice id="A">the London Eye</choice>
+      <choice id="B">the Tower Bridge</choice>
+      <choice id="C">the Great Wall</choice>
+      <choice id="D">nothing</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="TF" id="1">
+      <content key="( F )">Tom is watching his father cooking.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="2">
+      <content key="( T )">Tom notices that his mother has several white hair.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="3">
+      <content key="( T )">Tom's mother tells him, "Every time that you do something wrong and make me angry, one of my hair turns white."</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="4">
+      <content key="( T )">Tom wants to know why his grandma's hair is white.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+</questions>

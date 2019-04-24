@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">What is my favourite sport? My favourite sport is ___.</content>
+      <choice id="A">swimming</choice>
+      <choice id="B">football</choice>
+      <choice id="C">basketball</choice>
+      <choice id="D">ping-pong</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">How often do I swim? ___.</content>
+      <choice id="A">Every day</choice>
+      <choice id="B">Every week</choice>
+      <choice id="C">Month</choice>
+      <choice id="D">Year</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">I hope I can become a ___ in the future.</content>
+      <choice id="A">teacher</choice>
+      <choice id="B">swimmer</choice>
+      <choice id="C">doctor</choice>
+      <choice id="D">dancer</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">Why do I like swimming? Because it can make me ___.</content>
+      <choice id="A">healthy</choice>
+      <choice id="B">sad</choice>
+      <choice id="C">strong</choice>
+      <choice id="D">A and C</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">I look like ___ in the pool when I am swimming.</content>
+      <choice id="A">a duck</choice>
+      <choice id="B">a snake</choice>
+      <choice id="C">a fish</choice>
+      <choice id="D">a frog</choice>
+   </question>
+
+</questions>

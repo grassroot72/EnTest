@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">People usually make their live ___.</content>
+      <choice id="A">with their hands</choice>
+      <choice id="B">with their feet</choice>
+      <choice id="C">by playing football</choice>
+      <choice id="D">by writing stories</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Which of the following is ture?</content>
+      <choice id="A">Bob is born in a small village.</choice>
+      <choice id="B">Bob's house is very big.</choice>
+      <choice id="C">The little boy often plays on the street.</choice>
+      <choice id="D">Bob's parents are rich.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">Why does the father make a soft ball for his son?</content>
+      <choice id="A">Because the family all like football.</choice>
+      <choice id="B">Because Bob likes to play football.</choice>
+      <choice id="C">Because they have lots of old clothes.</choice>
+      <choice id="D">Because Bob doesn't like playing real football.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">From the story we can see ___.</content>
+      <choice id="A">Bob's age</choice>
+      <choice id="B">Bob is an American boy</choice>
+      <choice id="C">Bob becomes a good football player at last</choice>
+      <choice id="D">Bob still plays football in the street</choice>
+   </question>
+
+</questions>

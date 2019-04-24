@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">How many students are there in every class? There are ___ students in every class.</content>
+      <choice id="A">fifty</choice>
+      <choice id="B">five</choice>
+      <choice id="C">forty</choice>
+      <choice id="D">fifteen</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">How many classes are there in our school? There are ___ classes in our school.</content>
+      <choice id="A">eleven</choice>
+      <choice id="B">twelve</choice>
+      <choice id="C">twenty</choice>
+      <choice id="D">thirteen</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">How many students are there in our school? There are about ___ students in our school.</content>
+      <choice id="A">600</choice>
+      <choice id="B">750</choice>
+      <choice id="C">500</choice>
+      <choice id="D">400</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">We have ___ teachers and ___ headmaster.</content>
+      <choice id="A">fifty, a</choice>
+      <choice id="B">fifteen, a</choice>
+      <choice id="C">forty, one</choice>
+      <choice id="D">fourteen, one</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">How is our school life? Our school life is very ___.</content>
+      <choice id="A">colourful</choice>
+      <choice id="B">careful</choice>
+      <choice id="C">harmful</choice>
+      <choice id="D">helpful</choice>
+   </question>
+
+</questions>

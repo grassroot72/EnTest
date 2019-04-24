@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Elephants have ___ teeth.</content>
+      <choice id="A">six</choice>
+      <choice id="B">four</choice>
+      <choice id="C">two</choice>
+      <choice id="D">eight</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Elephants are good at ___.</content>
+      <choice id="A">swimming</choice>
+      <choice id="B">running</choice>
+      <choice id="C">jumping</choice>
+      <choice id="D">singing</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">An elephant can live for about 70 ___.</content>
+      <choice id="A">years</choice>
+      <choice id="B">months</choice>
+      <choice id="C">weeks</choice>
+      <choice id="D">days</choice>
+   </question>
+
+</questions>

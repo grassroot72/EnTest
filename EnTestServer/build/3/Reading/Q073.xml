@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Mr. Brown has a ___.</content>
+      <choice id="A">big apple tree</choice>
+      <choice id="B">big orange tree</choice>
+      <choice id="C">big pear tree</choice>
+      <choice id="D">big banana tree</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Mr. Smith's apple tree has ___.</content>
+      <choice id="A">lots of fruit on it</choice>
+      <choice id="B">not much fruit on it</choice>
+      <choice id="C">no apples on it</choice>
+      <choice id="D">very few apples on it</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">Mr. Brown's apple tree is down after the strong wind ___.</content>
+      <choice id="A">because it is so tall</choice>
+      <choice id="B">because it is so short</choice>
+      <choice id="C">because it has no root</choice>
+      <choice id="D">because it has so many apples on it</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">From the passage, we know ___.</content>
+      <choice id="A">Mr. Smith's tree is still standing</choice>
+      <choice id="B">Mr. Brown's tree is still standing</choice>
+      <choice id="C">Mr. Brown and Mr. Smith's trees are still standing</choice>
+      <choice id="D">Mr. Brown and Mr. Smith's trees are both down</choice>
+   </question>
+
+</questions>

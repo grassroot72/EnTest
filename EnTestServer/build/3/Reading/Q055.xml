@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">What does Bill do after having some drinks?</content>
+      <choice id="A">He sleeps.</choice>
+      <choice id="B">He runs out of the restaurant.</choice>
+      <choice id="C">He goes to the bathroom</choice>
+      <choice id="D">He sings with Mr. Jackson.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">When does he wake up?</content>
+      <choice id="A">He wakes up in the morning.</choice>
+      <choice id="B">He wakes up in the afternoon.</choice>
+      <choice id="C">He wakes up in the midnight.</choice>
+      <choice id="D">He wakes up in the evening.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">What does he want to do after he wakes up?</content>
+      <choice id="A">He wants more drinks.</choice>
+      <choice id="B">He wants to sleep again.</choice>
+      <choice id="C">He wants to go out.</choice>
+      <choice id="D">He wants to eat something.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">Why does he call Mr. Jackson?</content>
+      <choice id="A">He wants to know if he can drink something.</choice>
+      <choice id="B">He wants to have breakfast in the restaurant.</choice>
+      <choice id="C">He wants to know where he is.</choice>
+      <choice id="D">He wants to know when Mr. Jackson opens the restaurant.</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">Why doesn't Mr. Jackson open the restaurant for Bill?</content>
+      <choice id="A">Because he doesn't like Bill.</choice>
+      <choice id="B">Because he doesn't know Bill.</choice>
+      <choice id="C">Because it is already in the midnight and he isn't happy about that.</choice>
+      <choice id="D">Because he always closes the restaurnat at that time.</choice>
+   </question>
+
+</questions>

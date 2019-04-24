@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Let us ___ and it's fun.</content>
+      <choice id="A">run</choice>
+      <choice id="B">to run</choice>
+      <choice id="C">runs</choice>
+      <choice id="D">running</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Which one is very important? ___.</content>
+      <choice id="A">Health</choice>
+      <choice id="B">Money</choice>
+      <choice id="C">Everything</choice>
+      <choice id="D">Nothing</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Running is very ___.</content>
+      <choice id="A">sad</choice>
+      <choice id="B">bad</choice>
+      <choice id="C">funny</choice>
+      <choice id="D">unhappy</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">We are very ___ now.</content>
+      <choice id="A">young</choice>
+      <choice id="B">old</choice>
+      <choice id="C">big</choice>
+      <choice id="D">small</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">Running is one of the ___.</content>
+      <choice id="A">sports</choice>
+      <choice id="B">songs</choice>
+      <choice id="C">studies</choice>
+      <choice id="D">dances</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">How many people does Guangzhou have? ___.</content>
+      <choice id="A">10,000,000</choice>
+      <choice id="B">200,000</choice>
+      <choice id="C">500,000</choice>
+      <choice id="D">6,000,000</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Guangzhou is the ___ of Guangdong.</content>
+      <choice id="A">province</choice>
+      <choice id="B">town</choice>
+      <choice id="C">country</choice>
+      <choice id="D">capital</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Guangzhou takes ___ a new look.</content>
+      <choice id="A">on</choice>
+      <choice id="B">after</choice>
+      <choice id="C">at</choice>
+      <choice id="D">with</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">There are many things except ___ in Guangzhou.</content>
+      <choice id="A">buildings</choice>
+      <choice id="B">gardens</choice>
+      <choice id="C">roads</choice>
+      <choice id="D">trees</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">Guangzhou is the ___ of Guangdong Province.</content>
+      <choice id="A">town</choice>
+      <choice id="B">country</choice>
+      <choice id="C">village</choice>
+      <choice id="D">centre</choice>
+   </question>
+
+</questions>

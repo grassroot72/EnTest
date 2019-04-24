@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="TF" id="1">
+      <content key="( F )">Sam cries at school.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="2">
+      <content key="( T )">Sam can't answer the teacher's question.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="3">
+      <content key="( F )">Sam comes from America.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="4">
+      <content key="( F )">The teacher asks Sam a wrong question.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+</questions>

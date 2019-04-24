@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="TF" id="1">
+      <content key="( F )">Tom is only five years old.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="2">
+      <content key="( F )">It is the second time for Tom to go to the cinema.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="3">
+      <content key="( F )">Tom buys four tickets before the girl asks him.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="4">
+      <content key="( F )">Tom meets a few good friends of him that day.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+   <question type="TF" id="5">
+      <content key="( T )">The big woman cuts up the tickets.</content>
+      <choice id="T">True</choice>
+      <choice id="F">False</choice>
+   </question>
+
+</questions>

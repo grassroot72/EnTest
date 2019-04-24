@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">What are Jim and Henry doing in Henry's room?</content>
+      <choice id="A">They're playing video games.</choice>
+      <choice id="B">They're reading books.</choice>
+      <choice id="C">They're listening to the music.</choice>
+      <choice id="D">They're doing their homework.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Why does Jim have to leave?</content>
+      <choice id="A">Because it is time for Jim to go to the library.</choice>
+      <choice id="B">Because it is time for Henry to go to the football game.</choice>
+      <choice id="C">Because it is time for Jim to have supper.</choice>
+      <choice id="D">Because it is time for Jim to meet a friend.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">What is Henry's last name?</content>
+      <choice id="A">Jim.</choice>
+      <choice id="B">Peterson.</choice>
+      <choice id="C">Henry.</choice>
+      <choice id="D">Hunt.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">What will Jim's mother do at supper time?</content>
+      <choice id="A">Ask Henry to stay for supper.</choice>
+      <choice id="B">Ask Jim to cook for Henry.</choice>
+      <choice id="C">Ask Jim to send Henry home.</choice>
+      <choice id="D">Ask Henry to go home.</choice>
+   </question>
+
+</questions>

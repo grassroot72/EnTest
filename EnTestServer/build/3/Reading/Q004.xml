@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Where does the older man go?</content>
+      <choice id="A">He goes to the shop.</choice>
+      <choice id="B">He goes to the market.</choice>
+      <choice id="C">He goes to school.</choice>
+      <choice id="D">He goes to the park.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">What does he take with him?</content>
+      <choice id="A">His old horse.</choice>
+      <choice id="B">His dog.</choice>
+      <choice id="C">His cat.</choice>
+      <choice id="D">His cow.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">Why doesn't anybody want to buy the horse?</content>
+      <choice id="A">Because it is black.</choice>
+      <choice id="B">Because it is white.</choice>
+      <choice id="C">Because it is sick.</choice>
+      <choice id="D">Because it is old.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">What is the horse's name?</content>
+      <choice id="A">Its name is Joe.</choice>
+      <choice id="B">Its name is Jerry.</choice>
+      <choice id="C">Its name is Tom.</choice>
+      <choice id="D">Its name is Kitty.</choice>
+   </question>
+
+</questions>

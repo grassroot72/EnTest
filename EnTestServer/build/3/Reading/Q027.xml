@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">This happens ___.</content>
+      <choice id="A">in a small German town</choice>
+      <choice id="B">in an American city</choice>
+      <choice id="C">in a place of England</choice>
+      <choice id="D">in Australia</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">The Frenchman ___.</content>
+      <choice id="A">does not know English</choice>
+      <choice id="B">knows English very well</choice>
+      <choice id="C">Knows little English</choice>
+      <choice id="D">Knows a little English</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">He goes to the post office ___.</content>
+      <choice id="A">to buy a stamp</choice>
+      <choice id="B">to buy a magazine</choice>
+      <choice id="C">to send a letter</choice>
+      <choice id="D">to give the letter and stamp to the girl at the desk</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">The Frenchman is very much surprised because ___.</content>
+      <choice id="A">he does not believe his ears</choice>
+      <choice id="B">the girl asks him to stick the stamp on his body</choice>
+      <choice id="C">he does not understand the girl very well</choice>
+      <choice id="D">he understands the girl very well</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">At last ___.</content>
+      <choice id="A">he doesn't send his letter</choice>
+      <choice id="B">he understands what the girl means</choice>
+      <choice id="C">he sticks the stamp on his body</choice>
+      <choice id="D">the girl keeps silent</choice>
+   </question>
+
+</questions>

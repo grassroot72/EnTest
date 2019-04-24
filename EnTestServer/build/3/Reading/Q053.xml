@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Mr. White is a ___ man, so he usually forgets something.</content>
+      <choice id="A">great</choice>
+      <choice id="B">busy</choice>
+      <choice id="C">young</choice>
+      <choice id="D">happy</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Mr. White thinks that Saturday is ___, but he is wrong.</content>
+      <choice id="A">January 13</choice>
+      <choice id="B">January 14</choice>
+      <choice id="C">January 15</choice>
+      <choice id="D">January 16</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">He buys some flowers ___.</content>
+      <choice id="A">after he goes home</choice>
+      <choice id="B">before he finishes his work</choice>
+      <choice id="C">on Sunday</choice>
+      <choice id="D">before he gets home</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">When Mr. White gives the flowers to his wife, she ___.</content>
+      <choice id="A">is happy because it is her birthday</choice>
+      <choice id="B">says nothing</choice>
+      <choice id="C">isn't happy because he forgets her birthday again</choice>
+      <choice id="D">thanks him for the flowers</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">From this passage we know that Mr. White ___.</content>
+      <choice id="A">remembers his wife's birthday, but forgets that date</choice>
+      <choice id="B">remembers the date, but forgets her birthday</choice>
+      <choice id="C">remembers the date and his wife's birthday</choice>
+      <choice id="D">forgets both the date and his wife's birthday</choice>
+   </question>
+
+</questions>

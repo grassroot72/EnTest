@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Who stops the bikes and lets the cars go by? ___.</content>
+      <choice id="A">A policeman</choice>
+      <choice id="B">Da Ming and Li Lei</choice>
+      <choice id="C">No one</choice>
+      <choice id="D">Some students</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">What do some students carry with them after scool? ___.</content>
+      <choice id="A">They carry many bags</choice>
+      <choice id="B">They carry many books with them</choice>
+      <choice id="C">They carry heavy bags of books with them</choice>
+      <choice id="D">They carry heavy bags with them</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">What do Da Ming and Li Lei do? ___.</content>
+      <choice id="A">They ride the two bikes</choice>
+      <choice id="B">Tom rides a bike and Jack rides a bike</choice>
+      <choice id="C">They are on the same bike</choice>
+      <choice id="D">They ride two bikes</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">Who is right? ___.</content>
+      <choice id="A">The student</choice>
+      <choice id="B">The policeman</choice>
+      <choice id="C">Da Ming and Li Lei</choice>
+      <choice id="D">All of them</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">How does Da Ming go to school? ___.</content>
+      <choice id="A">On foot</choice>
+      <choice id="B">By bus</choice>
+      <choice id="C">By bike</choice>
+      <choice id="D">By car</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">David wants to buy ___.</content>
+      <choice id="A">a girl</choice>
+      <choice id="B">a football</choice>
+      <choice id="C">a store</choice>
+      <choice id="D">a basketball</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">One the way he finds ___.</content>
+      <choice id="A">a lost girl</choice>
+      <choice id="B">a football</choice>
+      <choice id="C">a boy</choice>
+      <choice id="D">a basketball</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">The girl is ___.</content>
+      <choice id="A">playing football</choice>
+      <choice id="B">laughing</choice>
+      <choice id="C">crying</choice>
+      <choice id="D">playing basketball</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">When he comes back to the store, ___.</content>
+      <choice id="A">its still open</choice>
+      <choice id="B">it's closed</choice>
+      <choice id="C">he buys a football</choice>
+      <choice id="D">he buys a basketball</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">David helps the girl to ___.</content>
+      <choice id="A">find her football</choice>
+      <choice id="B">find her basketball</choice>
+      <choice id="C">find her home</choice>
+      <choice id="D">find her parents</choice>
+   </question>
+
+</questions>

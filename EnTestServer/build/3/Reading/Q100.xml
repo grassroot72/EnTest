@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">I go to a ___ school.</content>
+      <choice id="A">primary</choice>
+      <choice id="B">high</choice>
+      <choice id="C">college</choice>
+      <choice id="D">small</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">How many students are there in my class? There are ___ students in my class.</content>
+      <choice id="A">thirty</choice>
+      <choice id="B">ten</choice>
+      <choice id="C">forty</choice>
+      <choice id="D">sixty</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">I sit ___ the back with Lucy.</content>
+      <choice id="A">on</choice>
+      <choice id="B">in</choice>
+      <choice id="C">at</choice>
+      <choice id="D">over</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Who gets good marks? ___.</content>
+      <choice id="A">I</choice>
+      <choice id="B">teacher</choice>
+      <choice id="C">Lucy</choice>
+      <choice id="D">Miss Black</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">I ___ Miss Black.</content>
+      <choice id="A">like</choice>
+      <choice id="B">love</choice>
+      <choice id="C">don't like</choice>
+      <choice id="D">miss</choice>
+   </question>
+
+</questions>

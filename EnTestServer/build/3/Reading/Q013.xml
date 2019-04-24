@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Tom is a seaman. He must work ___.</content>
+      <choice id="A">in the bus</choice>
+      <choice id="B">on the ship</choice>
+      <choice id="C">in the shop</choice>
+      <choice id="D">in the factory</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Tom likes to drink very much. He goes to drink in this bar ___.</content>
+      <choice id="A">once a week</choice>
+      <choice id="B">very often</choice>
+      <choice id="C">the first time</choice>
+      <choice id="D">every other day</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">Why does the man ask Tom the question?</content>
+      <choice id="A">Because he wants Tom to tell him the way.</choice>
+      <choice id="B">Because he loses the way.</choice>
+      <choice id="C">Because he is a stanger there.</choice>
+      <choice id="D">Because he is quite drunk.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Why can't Tom answer the question?</content>
+      <choice id="A">Because he is a stranger there too.</choice>
+      <choice id="B">Because he doesn't want to tell him.</choice>
+      <choice id="C">Because he is quite drunk too.</choice>
+      <choice id="D">Because he is quite ill.</choice>
+   </question>
+
+</questions>

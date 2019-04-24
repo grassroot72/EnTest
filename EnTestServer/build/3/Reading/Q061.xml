@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">Dan is a ___.</content>
+      <choice id="A">workman</choice>
+      <choice id="B">salesman</choice>
+      <choice id="C">gentleman</choice>
+      <choice id="D">doorman</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">At first people ask Dan ___.</content>
+      <choice id="A">where the club is</choice>
+      <choice id="B">if he buys a clock</choice>
+      <choice id="C">what the time is</choice>
+      <choice id="D">if the clock is right</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">Dan buys a clock and puts it on the wall because ___.</content>
+      <choice id="A">he likes the clock</choice>
+      <choice id="B">he doesn't lkie stupid questions</choice>
+      <choice id="C">he loses his watch</choice>
+      <choice id="D">he always forgets the time</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">At last people ask Dan ___.</content>
+      <choice id="A">if that clock is right</choice>
+      <choice id="B">what the time is</choice>
+      <choice id="C">who puts the clock up</choice>
+      <choice id="D">Where the clock is</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">How many questions do people ask Dan?</content>
+      <choice id="A">One.</choice>
+      <choice id="B">Two.</choice>
+      <choice id="C">Three.</choice>
+      <choice id="D">Four.</choice>
+   </question>
+
+</questions>

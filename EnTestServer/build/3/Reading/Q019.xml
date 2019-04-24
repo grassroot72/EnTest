@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">One day, Bruce plays ___.</content>
+      <choice id="A">in a park</choice>
+      <choice id="B">in the street</choice>
+      <choice id="C">in front of a shop</choice>
+      <choice id="D">in front of a house</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">The woman wants to see ___.</content>
+      <choice id="A">Bruce's mother</choice>
+      <choice id="B">Bruce's father</choice>
+      <choice id="C">Bruce himself</choice>
+      <choice id="D">nobody</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">The woman goes over to ___ after she talks with Bruce.</content>
+      <choice id="A">knock at the door of the house</choice>
+      <choice id="B">ring the bell of the house</choice>
+      <choice id="C">give a call to his mother</choice>
+      <choice id="D">ask his mother some questions</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">The woman gets ___ because no one comes to open the door.</content>
+      <choice id="A">pleased</choice>
+      <choice id="B">surprised</choice>
+      <choice id="C">angry</choice>
+      <choice id="D">afraid</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">In the story the woman doesn't find Bruce's mother because ___.</content>
+      <choice id="A">she goes to the wrong house</choice>
+      <choice id="B">she doesn't know Bruce's mother</choice>
+      <choice id="C">Bruce is not at home</choice>
+      <choice id="D">Bruce doesn't have a mother</choice>
+   </question>
+
+</questions>

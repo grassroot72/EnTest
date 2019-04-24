@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Which of the following is true?</content>
+      <choice id="A">Billy doesn't like to draw pictures.</choice>
+      <choice id="B">Both Billy and his mother are bad at drawing.</choice>
+      <choice id="C">Billy is good at drawing.</choice>
+      <choice id="D">Billy's mother is good at drawing.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Billy's mother ___ draws pictures for him when he is very small.</content>
+      <choice id="A">never</choice>
+      <choice id="B">doesn't</choice>
+      <choice id="C">hardly</choice>
+      <choice id="D">often</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Billy's mother is ___ him.</content>
+      <choice id="A">rude to</choice>
+      <choice id="B">satisfied with</choice>
+      <choice id="C">kind to</choice>
+      <choice id="D">thankful to</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Billy's picture looks like ___.</content>
+      <choice id="A">nothing</choice>
+      <choice id="B">his mother</choice>
+      <choice id="C">himself</choice>
+      <choice id="D">a monkey</choice>
+   </question>
+
+</questions>

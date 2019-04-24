@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">The children give the bird ___.</content>
+      <choice id="A">money</choice>
+      <choice id="B">a cage</choice>
+      <choice id="C">some food</choice>
+      <choice id="D">some paint</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">The bird ___.</content>
+      <choice id="A">likes staying in school</choice>
+      <choice id="B">does not like school</choice>
+      <choice id="C">can read</choice>
+      <choice id="D">eats rice</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">At night the bird ___.</content>
+      <choice id="A">goes fishing</choice>
+      <choice id="B">looks at TV</choice>
+      <choice id="C">plays with a cat</choice>
+      <choice id="D">goes out of the school</choice>
+   </question>
+
+</questions>

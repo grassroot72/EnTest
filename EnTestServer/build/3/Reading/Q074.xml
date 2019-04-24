@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">Where does the girl and her mother live?</content>
+      <choice id="A">In a big beautiful house in the city.</choice>
+      <choice id="B">In a big house across from the river.</choice>
+      <choice id="C">In an apartment building in a small town.</choice>
+      <choice id="D">In a town far away.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Why does the girl want to visit the big house?</content>
+      <choice id="A">The house looks big.</choice>
+      <choice id="B">The house is far away.</choice>
+      <choice id="C">The house looks beautiful</choice>
+      <choice id="D">The house is old and gray.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">What doesn't she do before she walks to the big house?</content>
+      <choice id="A">Cleaning her bedroom.</choice>
+      <choice id="B">Helping her mom.</choice>
+      <choice id="C">Washing her face.</choice>
+      <choice id="D">Washing the dishes.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Why is she surprised when she arrives at the house?</content>
+      <choice id="A">The house is big and beautiful.</choice>
+      <choice id="B">The house is old and small.</choice>
+      <choice id="C">The house isn't beautiful. It is old and gray.</choice>
+      <choice id="D">Nobody is there.</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">Why the windows of her house look gold in the evening?</content>
+      <choice id="A">Because they are small.</choice>
+      <choice id="B">Because they are beautiful.</choice>
+      <choice id="C">Because they are far away.</choice>
+      <choice id="D">Because of the sun.</choice>
+   </question>
+
+</questions>

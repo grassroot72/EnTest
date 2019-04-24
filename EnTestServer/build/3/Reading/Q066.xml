@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">From the story, we know that Jack is ___.</content>
+      <choice id="A">Dick's good friend</choice>
+      <choice id="B">a large police dog</choice>
+      <choice id="C">a young man</choice>
+      <choice id="D">a young man'g dog</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Where does Dick walk his dog every Saturday afternoon?</content>
+      <choice id="A">In his room.</choice>
+      <choice id="B">In the street.</choice>
+      <choice id="C">In the park.</choice>
+      <choice id="D">In the field.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Jack becomes very worried on afternoon because ___.</content>
+      <choice id="A">he can't go out for a walk as usual</choice>
+      <choice id="B">a young man comes to visit Dick that afternoon</choice>
+      <choice id="C">Dick walks around his room several times</choice>
+      <choice id="D">he can't find the yong man's hat</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Why does Jack sit down again in front of the man with the hat in his mouth?</content>
+      <choice id="A">Try to make the man laugh.</choice>
+      <choice id="B">Like the young man very much.</choice>
+      <choice id="C">Ask the young man to leave.</choice>
+      <choice id="D">Want to talk with the young man.</choice>
+   </question>
+
+</questions>

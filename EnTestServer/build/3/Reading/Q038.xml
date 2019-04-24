@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">Da Vinci is one of the greatest ___.</content>
+      <choice id="A">headmasters</choice>
+      <choice id="B">teachers</choice>
+      <choice id="C">artist</choice>
+      <choice id="D">professors</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">The young man wants ___.</content>
+      <choice id="A">to draw eggs</choice>
+      <choice id="B">to buy pictures</choice>
+      <choice id="C">to see Da Vinci</choice>
+      <choice id="D">to learn drawing</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">Da Vinci asks the young man ___.</content>
+      <choice id="A">to sell eggs</choice>
+      <choice id="B">to work quickly</choice>
+      <choice id="C">to show his drawing</choice>
+      <choice id="D">to draw eggs first</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Da Vinci ___ the young man.</content>
+      <choice id="A">is strict with</choice>
+      <choice id="B">is satisfied with</choice>
+      <choice id="C">is interested in</choice>
+      <choice id="D">gets on well with</choice>
+   </question>
+
+</questions>

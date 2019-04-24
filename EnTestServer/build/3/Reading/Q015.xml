@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Where is Andy?</content>
+      <choice id="A">He is at home.</choice>
+      <choice id="B">He is in the street.</choice>
+      <choice id="C">He is in the police station.</choice>
+      <choice id="D">He is in a shop.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">What does Andy remember?</content>
+      <choice id="A">He remembers that he is not at home.</choice>
+      <choice id="B">He remembers that he leaves his license at home.</choice>
+      <choice id="C">He remembers nothing.</choice>
+      <choice id="D">He remembers that he needs to buy some food for dinner.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Why is the policeman surprised?</content>
+      <choice id="A">Because Andy wears a blue T-shirt.</choice>
+      <choice id="B">Because Andy's car is red.</choice>
+      <choice id="C">Because Andy is pushing his car in the street.</choice>
+      <choice id="D">Because he doesn't know Andy.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">What does Andy leave at home?</content>
+      <choice id="A">His license.</choice>
+      <choice id="B">His shirt.</choice>
+      <choice id="C">His key.</choice>
+      <choice id="D">His breakfast.</choice>
+   </question>
+
+</questions>

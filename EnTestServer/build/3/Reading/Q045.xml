@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">When does Tom go home?</content>
+      <choice id="A">3 o'clock.</choice>
+      <choice id="B">4 o'clock.</choice>
+      <choice id="C">5 o'clock.</choice>
+      <choice id="D">6 o'clock.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Who sits near him on the bus?</content>
+      <choice id="A">A small girl.</choice>
+      <choice id="B">A small boy.</choice>
+      <choice id="C">A mother and her little son.</choice>
+      <choice id="D">A mother and her little girl.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">At last, Tom is angry because ___.</content>
+      <choice id="A">The mother talks so loudly.</choice>
+      <choice id="B">He thinks that the mother makes the little boy cry.</choice>
+      <choice id="C">The mother takes his cap.</choice>
+      <choice id="D">The little boy takes his cap.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">The mother can't make her son stop crying because ___.</content>
+      <choice id="A">Because she can't ask Tom to give her his cap.</choice>
+      <choice id="B">Because she likes to see her son crying.</choice>
+      <choice id="C">Because the boy is sick.</choice>
+      <choice id="D">Because she doesn't know how to make him laugh.</choice>
+   </question>
+
+</questions>

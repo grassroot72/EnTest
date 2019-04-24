@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">We work and play ___.</content>
+      <choice id="A">at night</choice>
+      <choice id="B">in the morning</choice>
+      <choice id="C">in the afternoon</choice>
+      <choice id="D">during the day</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Our bodies grow most while we are ___.</content>
+      <choice id="A">playing</choice>
+      <choice id="B">sleeping</choice>
+      <choice id="C">working</choice>
+      <choice id="D">eating</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">A child should have ___ of sleep every night.</content>
+      <choice id="A">8 hours</choice>
+      <choice id="B">9 hours</choice>
+      <choice id="C">10 hours</choice>
+      <choice id="D">11 hours</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">In order to get plenty of fresh air at night, you can ___.</content>
+      <choice id="A">cover your head</choice>
+      <choice id="B">play outside</choice>
+      <choice id="C">sleep in warm air</choice>
+      <choice id="D">open your windows</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">It's ___ o'clock now.</content>
+      <choice id="A">six</choice>
+      <choice id="B">seven</choice>
+      <choice id="C">eight</choice>
+      <choice id="D">nine</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Amy and Tom are ___.</content>
+      <choice id="A">in bed</choice>
+      <choice id="B">at school</choice>
+      <choice id="C">in the garden</choice>
+      <choice id="D">in the park</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">What colour is the world now? The world is ___ now.</content>
+      <choice id="A">black</choice>
+      <choice id="B">white</choice>
+      <choice id="C">red</choice>
+      <choice id="D">blue</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">The children are very ___.</content>
+      <choice id="A">sad</choice>
+      <choice id="B">upset</choice>
+      <choice id="C">angry</choice>
+      <choice id="D">excited</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">Who will help them make snowmen? ___.</content>
+      <choice id="A">Their mother</choice>
+      <choice id="B">Their father</choice>
+      <choice id="C">No body</choice>
+      <choice id="D">Their teacher</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">When does Mid-Autumn Day usually come in China? ___.</content>
+      <choice id="A">September</choice>
+      <choice id="B">October</choice>
+      <choice id="C">November</choice>
+      <choice id="D">A and B</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">What kind of food do people eat on Mid-Autumn Day? People eat ___.</content>
+      <choice id="A">cakes</choice>
+      <choice id="B">moon cakes</choice>
+      <choice id="C">cookies</choice>
+      <choice id="D">pie</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">How do moon cakes taste? ___.</content>
+      <choice id="A">Sour</choice>
+      <choice id="B">Sweet</choice>
+      <choice id="C">Salty</choice>
+      <choice id="D">Spicy</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Where do many families eat their dinner if the weather is nice? ___.</content>
+      <choice id="A">In the open air</choice>
+      <choice id="B">In the room</choice>
+      <choice id="C">In the house</choice>
+      <choice id="D">In the country</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">When do the families get together? ___.</content>
+      <choice id="A">On May 1st</choice>
+      <choice id="B">On October 1st</choice>
+      <choice id="C">On September 1st</choice>
+      <choice id="D">On Mid-Autumn Day</choice>
+   </question>
+
+</questions>

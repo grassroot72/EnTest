@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">A mother and her son go to London ___.</content>
+      <choice id="A">on foot</choice>
+      <choice id="B">by ship</choice>
+      <choice id="C">by bus</choice>
+      <choice id="D">by bike</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Why does the bus conductor come to them?</content>
+      <choice id="A">She comes to ask them to buy tickts.</choice>
+      <choice id="B">She wants to find seats for them.</choice>
+      <choice id="C">She wants to see her son.</choice>
+      <choice id="D">She wants to let them out.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">How old is the boy?</content>
+      <choice id="A">He is two years old.</choice>
+      <choice id="B">He is two and a half years old.</choice>
+      <choice id="C">He is three years old.</choice>
+      <choice id="D">He is four years old.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">The mother gives the conductor ___ at last.</content>
+      <choice id="A">twenty pounds</choice>
+      <choice id="B">ten pounds</choice>
+      <choice id="C">thirty pounds</choice>
+      <choice id="D">fifteen pounds</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">How old is my grandfather? He is ___ years old.</content>
+      <choice id="A">sixteen</choice>
+      <choice id="B">eighty</choice>
+      <choice id="C">twenty</choice>
+      <choice id="D">fifteen</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">What colour is his hair and his beard? They are ___.</content>
+      <choice id="A">white</choice>
+      <choice id="B">blue</choice>
+      <choice id="C">black</choice>
+      <choice id="D">red</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">What does he like reading? He likes reading ___.</content>
+      <choice id="A">books</choice>
+      <choice id="B">novels</choice>
+      <choice id="C">newspapers</choice>
+      <choice id="D">magazines</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">My grandfather gets up ___.</content>
+      <choice id="A">early</choice>
+      <choice id="B">very early</choice>
+      <choice id="C">late</choice>
+      <choice id="D">very late</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">My grandfather always tells me the story ___ his old days.</content>
+      <choice id="A">with</choice>
+      <choice id="B">at</choice>
+      <choice id="C">of</choice>
+      <choice id="D">on</choice>
+   </question>
+
+</questions>

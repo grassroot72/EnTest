@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">What is the rabbit's name? The rabbit's name is ___.</content>
+      <choice id="A">Hanhan</choice>
+      <choice id="B">Huahua</choice>
+      <choice id="C">Tom</choice>
+      <choice id="D">Tommy</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">What colour are Hanhan's eyes? Hanhan's eyes are ___.</content>
+      <choice id="A">black</choice>
+      <choice id="B">red</choice>
+      <choice id="C">yellow</choice>
+      <choice id="D">blue</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">Hanhan's tail is ___.</content>
+      <choice id="A">long</choice>
+      <choice id="B">short</choice>
+      <choice id="C">wide</choice>
+      <choice id="D">lovely</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Hanhan likes ___ very much.</content>
+      <choice id="A">carrots</choice>
+      <choice id="B">eggs</choice>
+      <choice id="C">fruits</choice>
+      <choice id="D">meat</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">Who is Hanhan's master? Hanhan's master is ___.</content>
+      <choice id="A">Lisa</choice>
+      <choice id="B">Tom</choice>
+      <choice id="C">Tony</choice>
+      <choice id="D">Jim</choice>
+   </question>
+
+</questions>

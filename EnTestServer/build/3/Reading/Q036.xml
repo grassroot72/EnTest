@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">What does Mary do every day?</content>
+      <choice id="A">She answers all the telephone calls.</choice>
+      <choice id="B">She talks with the policemen and doctors.</choice>
+      <choice id="C">She plays with the children.</choice>
+      <choice id="D">She deals with the emergency calls.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">How does she feel when she answers the little girl's call?</content>
+      <choice id="A">She is worried.</choice>
+      <choice id="B">She is sorry.</choice>
+      <choice id="C">She is surprised.</choice>
+      <choice id="D">She is happy.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">How do the police and the doctors get into the house?</content>
+      <choice id="A">They go in through the windows.</choice>
+      <choice id="B">They break the door open.</choice>
+      <choice id="C">They stay outside the house and shout.</choice>
+      <choice id="D">The woman is outside. They don't need to go in.</choice>
+   </question>
+
+</questions>

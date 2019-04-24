@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">The colour of Mr. Smith's coat is ___.</content>
+      <choice id="A">brown</choice>
+      <choice id="B">blue</choice>
+      <choice id="C">black</choice>
+      <choice id="D">red</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Mrs. Smith doesn't like the coat because ___.</content>
+      <choice id="A">it is very old</choice>
+      <choice id="B">it is very ugly</choice>
+      <choice id="C">it has a hole in it</choice>
+      <choice id="D">it is very dirty</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Mrs. Smith asks Mr. Smith to ___.</content>
+      <choice id="A">give the coat to a poor man</choice>
+      <choice id="B">buy a new coat</choice>
+      <choice id="C">throw it away</choice>
+      <choice id="D">repair it</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Why does Mr. Smith send the coat to the tailor's?</content>
+      <choice id="A">Because he doesn't like it any more.</choice>
+      <choice id="B">Because there is a hole in it</choice>
+      <choice id="C">Because he wants to have a new one just like it</choice>
+      <choice id="D">Because he wants to give the coat to the tailor</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">How many holes are there in the new coat?</content>
+      <choice id="A">One.</choice>
+      <choice id="B">Two.</choice>
+      <choice id="C">Three.</choice>
+      <choice id="D">No one.</choice>
+   </question>
+
+</questions>

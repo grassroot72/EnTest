@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Jim ___ at school.</content>
+      <choice id="A">studies well</choice>
+      <choice id="B">is not a good student</choice>
+      <choice id="C">is clean</choice>
+      <choice id="D">does badly</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Jim's face and hands are always dirty because he ___.</content>
+      <choice id="A">never washes them</choice>
+      <choice id="B">doesn't wash them with water</choice>
+      <choice id="C">washes them with soap, but not water</choice>
+      <choice id="D">washes them only with water, but not soap</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Jim's aunt sees ___.</content>
+      <choice id="A">Jim's face is not clean</choice>
+      <choice id="B">there is an egg in Jim's mouth</choice>
+      <choice id="C">Jim doesn't have breakfast that morning</choice>
+      <choice id="D">there is an egg on Jim's face</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">What does Jim have that morning?</content>
+      <choice id="A">Bread.</choice>
+      <choice id="B">Meat.</choice>
+      <choice id="C">Eggs.</choice>
+      <choice id="D">Apples.</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">From this story we know that Jim ___.</content>
+      <choice id="A">has eggs every day</choice>
+      <choice id="B">has eggs every morning</choice>
+      <choice id="C">does not have eggs every day</choice>
+      <choice id="D">is a clean boy</choice>
+   </question>
+
+</questions>

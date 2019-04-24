@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">Where does the story happen?</content>
+      <choice id="A">In Beijing.</choice>
+      <choice id="B">In Tokyo.</choice>
+      <choice id="C">In London.</choice>
+      <choice id="D">In New York.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Who cleans the snow for Miss Green?</content>
+      <choice id="A">A little boy.</choice>
+      <choice id="B">A liitle girl.</choice>
+      <choice id="C">A snow angel.</choice>
+      <choice id="D">Miss Green's friend.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">How does Miss Green find the little boy?</content>
+      <choice id="A">She stays at home all day.</choice>
+      <choice id="B">She takes her dog out for walk.</choice>
+      <choice id="C">She opens her door and sits in the front of her house.</choice>
+      <choice id="D">A friend tells her.</choice>
+   </question>
+
+</questions>

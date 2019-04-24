@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Xiao Li ___.</content>
+      <choice id="A">is a car driver</choice>
+      <choice id="B">is a worker</choice>
+      <choice id="C">teaches in the factory</choice>
+      <choice id="D">makes machines</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">On Saturday and Sunday Xiao Li ___.</content>
+      <choice id="A">doesn't go to work</choice>
+      <choice id="B">stays at home</choice>
+      <choice id="C">goes to the factory</choice>
+      <choice id="D">reads books</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">___, so he has no time to have breadfast.</content>
+      <choice id="A">He is very busy</choice>
+      <choice id="B">His factory is too far</choice>
+      <choice id="C">He doesn't like having breakfast</choice>
+      <choice id="D">He often gets up early</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">He ___ in the evening.</content>
+      <choice id="A">washes his clothes</choice>
+      <choice id="B">cooks supper</choice>
+      <choice id="C">does housework</choice>
+      <choice id="D">both B and C</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">He goes to bed at ___, and gets up at ___.</content>
+      <choice id="A">ten, half past five</choice>
+      <choice id="B">ten, six</choice>
+      <choice id="C">half past nine, half past five</choice>
+      <choice id="D">half past nine, six</choice>
+   </question>
+
+</questions>

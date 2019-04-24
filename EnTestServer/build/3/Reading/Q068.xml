@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">From this passage, we know a woman in Ameriaca has ___ skin.</content>
+      <choice id="A">black</choice>
+      <choice id="B">white</choice>
+      <choice id="C">orange</choice>
+      <choice id="D">yellow</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Why is her skin orange?</content>
+      <choice id="A">Because she eats so many potatoes.</choice>
+      <choice id="B">Because She eats so much meat.</choice>
+      <choice id="C">Because she eats so many bananas.</choice>
+      <choice id="D">Because she eats too many tomatoes, carrots and squashes.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">What does the doctor tell the woman to do?</content>
+      <choice id="A">The doctor tells the woman to eat more sugar.</choice>
+      <choice id="B">The doctor tells the woman to drink more water.</choice>
+      <choice id="C">The doctor tells the woman to eat some green things.</choice>
+      <choice id="D">The doctor tells the woman to eat more rice.</choice>
+   </question>
+
+</questions>

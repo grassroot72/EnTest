@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">What is in my bedroom? It's a ___.</content>
+      <choice id="A">clock</choice>
+      <choice id="B">pencil</choice>
+      <choice id="C">pen</choice>
+      <choice id="D">bag</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">What colour is the snoopy? It's ___.</content>
+      <choice id="A">red</choice>
+      <choice id="B">white</choice>
+      <choice id="C">blue</choice>
+      <choice id="D">green</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">When does the clock wake me up? It wakes me up at ___.</content>
+      <choice id="A">eight</choice>
+      <choice id="B">seven</choice>
+      <choice id="C">five</choice>
+      <choice id="D">six</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">Who gives me the clock? ___.</content>
+      <choice id="A">My grandmother</choice>
+      <choice id="B">My father</choice>
+      <choice id="C">My brother</choice>
+      <choice id="D">My mother</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">What colour is the tie on the neck? It's ___.</content>
+      <choice id="A">black</choice>
+      <choice id="B">white</choice>
+      <choice id="C">red</choice>
+      <choice id="D">blue</choice>
+   </question>
+
+</questions>

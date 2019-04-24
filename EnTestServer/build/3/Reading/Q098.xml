@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">When is Children's Day? It is ___.</content>
+      <choice id="A">May 1st</choice>
+      <choice id="B">June 13th</choice>
+      <choice id="C">June 1st</choice>
+      <choice id="D">July 1st</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Who take(s) me to the park?</content>
+      <choice id="A">My parents</choice>
+      <choice id="B">My teachers</choice>
+      <choice id="C">My brothers</choice>
+      <choice id="D">My sister</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">There are ___ children in the park.</content>
+      <choice id="A">many</choice>
+      <choice id="B">no</choice>
+      <choice id="C">a few</choice>
+      <choice id="D">some</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">I meet my friend ___ in the park.</content>
+      <choice id="A">Tom</choice>
+      <choice id="B">Jim</choice>
+      <choice id="C">Tony</choice>
+      <choice id="D">Yao Ying</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">My friend and I ___ in the park.</content>
+      <choice id="A">sing</choice>
+      <choice id="B">dance</choice>
+      <choice id="C">swim</choice>
+      <choice id="D">go boating</choice>
+   </question>
+
+</questions>

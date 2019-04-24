@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">What does Mike do? ___.</content>
+      <choice id="A">He's a worker</choice>
+      <choice id="B">He's a teacher</choice>
+      <choice id="C">He's a doctor</choice>
+      <choice id="D">He's a nurse</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">What colour is his hair? ___.</content>
+      <choice id="A">It's black</choice>
+      <choice id="B">His hair is white</choice>
+      <choice id="C">It's brown</choice>
+      <choice id="D">He has yellow hair</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">How many students are there in his class? ___.</content>
+      <choice id="A">There're fifteen students in his class</choice>
+      <choice id="B">There're five</choice>
+      <choice id="C">He has fifteen</choice>
+      <choice id="D">There're fifty in it</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Is Mike a good teacher? ___.</content>
+      <choice id="A">Yes, he is</choice>
+      <choice id="B">Yes, she is</choice>
+      <choice id="C">No, he isn't</choice>
+      <choice id="D">No, she isn't</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">What are the students doing in the classroom? ___.</content>
+      <choice id="A">They're walking there</choice>
+      <choice id="B">They're doing their lessons</choice>
+      <choice id="C">They're helping their teacher</choice>
+      <choice id="D">They're good friends of Jack</choice>
+   </question>
+
+</questions>

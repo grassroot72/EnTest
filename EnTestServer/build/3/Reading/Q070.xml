@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">Hank gets a job ___.</content>
+      <choice id="A">in a small town</choice>
+      <choice id="B">in a shop</choice>
+      <choice id="C">in a big city</choice>
+      <choice id="D">in a garage</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">How many people are there in Hank's family?</content>
+      <choice id="A">Two.</choice>
+      <choice id="B">Three.</choice>
+      <choice id="C">Four.</choice>
+      <choice id="D">Five.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">Hank's daughter takes the car when she ___.</content>
+      <choice id="A">goes to school</choice>
+      <choice id="B">goes to a party</choice>
+      <choice id="C">goes down town</choice>
+      <choice id="D">goes to watch a football game</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">When Hank's wife takes the car, it must ___.</content>
+      <choice id="A">be very nice and clean</choice>
+      <choice id="B">be very new</choice>
+      <choice id="C">move very fast</choice>
+      <choice id="D">be dear</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">___ often washes the car.</content>
+      <choice id="A">Hank</choice>
+      <choice id="B">Hank's wife</choice>
+      <choice id="C">Hank's son</choice>
+      <choice id="D">Hank's daughter</choice>
+   </question>
+
+</questions>

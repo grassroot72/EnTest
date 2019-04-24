@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">The wind thinks he is ___ than the sun.</content>
+      <choice id="A">harder</choice>
+      <choice id="B">warmer</choice>
+      <choice id="C">stronger</choice>
+      <choice id="D">better</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">The wind blows hard, he wants to make the man ___.</content>
+      <choice id="A">put on his hat and coat</choice>
+      <choice id="B">take off his hat and coat</choice>
+      <choice id="C">put on another coat</choice>
+      <choice id="D">take off his shoes</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">The sun shines brightly to make the man ___.</content>
+      <choice id="A">take off his hat</choice>
+      <choice id="B">take off his coat</choice>
+      <choice id="C">take off his hat and coat</choice>
+      <choice id="D">take off his coat and shoes</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">The sun ___ make the man take off his hat and coat. But the wind ___.</content>
+      <choice id="A">can; can</choice>
+      <choice id="B">can't; can</choice>
+      <choice id="C">can't; can't</choice>
+      <choice id="D">can; can't</choice>
+   </question>
+
+</questions>

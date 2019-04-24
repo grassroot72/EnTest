@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Who is Mike? He is a ___.</content>
+      <choice id="A">school boy</choice>
+      <choice id="B">school girl</choice>
+      <choice id="C">doctor</choice>
+      <choice id="D">dentist</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">How old is Mike? Mike is ___ years old.</content>
+      <choice id="A">six</choice>
+      <choice id="B">seven</choice>
+      <choice id="C">eight</choice>
+      <choice id="D">nine</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Why Mike doesn't want to come to school? Because of ___.</content>
+      <choice id="A">his toothache</choice>
+      <choice id="B">his laziness</choice>
+      <choice id="C">his mother</choice>
+      <choice id="D">his father</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Where is Mike's tooth? Mike's tooth is in the ___ now.</content>
+      <choice id="A">home</choice>
+      <choice id="B">school</choice>
+      <choice id="C">hospital</choice>
+      <choice id="D">museum</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">Mike's teacher is very ___ to hear that Mike's toothache.</content>
+      <choice id="A">glad</choice>
+      <choice id="B">happy</choice>
+      <choice id="C">sorry</choice>
+      <choice id="D">sad</choice>
+   </question>
+
+</questions>

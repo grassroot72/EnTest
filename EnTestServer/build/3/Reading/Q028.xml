@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">What does Lisa's father do at the museums?</content>
+      <choice id="A">He takes the train.</choice>
+      <choice id="B">He sees an island.</choice>
+      <choice id="C">He goes shopping.</choice>
+      <choice id="D">He takes many pictures.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">How does the train go from England to France?</content>
+      <choice id="A">The train travels over a bridge.</choice>
+      <choice id="B">The train travels under the water.</choice>
+      <choice id="C">The train travels through the mountains.</choice>
+      <choice id="D">The train travels across the desert.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Which country is on an island?</content>
+      <choice id="A">France.</choice>
+      <choice id="B">London.</choice>
+      <choice id="C">England.</choice>
+      <choice id="D">Egypt.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">___ is most interested in the Egypt Room.</content>
+      <choice id="A">Lisa Wilson</choice>
+      <choice id="B">Lisa's family</choice>
+      <choice id="C">A student</choice>
+      <choice id="D">A teacher</choice>
+   </question>
+
+</questions>

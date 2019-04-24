@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Where is the animal park?</content>
+      <choice id="A">It is in Asia.</choice>
+      <choice id="B">It is in Africa.</choice>
+      <choice id="C">It is in Beijing.</choice>
+      <choice id="D">It is in Australia.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Which animal is cuter and bigger than the monkeys?</content>
+      <choice id="A">The lion.</choice>
+      <choice id="B">The zebra.</choice>
+      <choice id="C">The hippo.</choice>
+      <choice id="D">The elephant.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">The ___ is not bigger than the zebra.</content>
+      <choice id="A">monkey</choice>
+      <choice id="B">giraffe</choice>
+      <choice id="C">elephant</choice>
+      <choice id="D">hippo</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">Where is Mike?</content>
+      <choice id="A">He is at school.</choice>
+      <choice id="B">He is at the animal park.</choice>
+      <choice id="C">He is in Africa.</choice>
+      <choice id="D">He is at home.</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">What will Make probably do next?</content>
+      <choice id="A">He will get up.</choice>
+      <choice id="B">He will be eaten by the lion.</choice>
+      <choice id="C">He will run with the lion.</choice>
+      <choice id="D">He will see other animals in the animal park.</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Where does the noise come from?</content>
+      <choice id="A">It comes from the street.</choice>
+      <choice id="B">It comes from the yard.</choice>
+      <choice id="C">It comes from Mr. Johnson.</choice>
+      <choice id="D">It comes from a dog.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">What is Mr. Smith doing in the yard?</content>
+      <choice id="A">He is chasing his cat.</choice>
+      <choice id="B">He is watering grass.</choice>
+      <choice id="C">He is looking for Mr. Johnson.</choice>
+      <choice id="D">He is cutting grass.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">What does Mr. Johnson want to do?</content>
+      <choice id="A">He wants to help Mr. Smith cut the grass.</choice>
+      <choice id="B">He wants to talk to Mr. Smith.</choice>
+      <choice id="C">He wants to teach Mr. Smith a lesson.</choice>
+      <choice id="D">He wants to drink coffee with Mr. Smith.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">Why does Mr. Johnson get up so early?</content>
+      <choice id="A">Because he likes getting up early.</choice>
+      <choice id="B">Because the noise from the yard wakes him up.</choice>
+      <choice id="C">Because Mr. Smith asks him to get up early.</choice>
+      <choice id="D">Becasue He wants to cut the grass.</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">From the passage, we can tell that Mr. Johnson ___.</content>
+      <choice id="A">will go back to sleep again</choice>
+      <choice id="B">likes Mr. Smith</choice>
+      <choice id="C">always gets up early</choice>
+      <choice id="D">alway help Mr. Smith cut the grass</choice>
+   </question>
+
+</questions>

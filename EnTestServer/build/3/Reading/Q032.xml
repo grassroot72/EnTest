@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">Why does Emily's mom want to send an e-mail?</content>
+      <choice id="A">She wants to use the computer.</choice>
+      <choice id="B">She wants to prepare some food and drinks.</choice>
+      <choice id="C">She wants to invite her friend to come for dinner.</choice>
+      <choice id="D">She wants to meet her friend at the part.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Why is Emily's mom unhappy?</content>
+      <choice id="A">Because she can't start the computer.</choice>
+      <choice id="B">Because she doesn't know how to send e-mail.</choice>
+      <choice id="C">Because she wants to invite her friends for dinner.</choice>
+      <choice id="D">Because she doesn't know how to type on a computer.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">What shall Emily's mom do after starting the computer?</content>
+      <choice id="A">Write her e-mail message.</choice>
+      <choice id="B">Send her e-mail message.</choice>
+      <choice id="C">Turn off the computer.</choice>
+      <choice id="D">Open the e-mail window.</choice>
+   </question>
+
+</questions>

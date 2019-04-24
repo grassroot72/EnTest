@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">Mrs. Jones is a ___.</content>
+      <choice id="A">mother</choice>
+      <choice id="B">girl</choice>
+      <choice id="C">woman</choice>
+      <choice id="D">woman teacher</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Mrs. Jones works in a ___.</content>
+      <choice id="A">university</choice>
+      <choice id="B">school</choice>
+      <choice id="C">meseum</choice>
+      <choice id="D">hospital</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Mrs. Jones goes to work ___ every day.</content>
+      <choice id="A">by bus</choice>
+      <choice id="B">by bike</choice>
+      <choice id="C">on foot</choice>
+      <choice id="D">in a car</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">The small boy is not ___ enough to understand why tears run out of Mrs. Jones' eyes.</content>
+      <choice id="A">old</choice>
+      <choice id="B">young</choice>
+      <choice id="C">tall</choice>
+      <choice id="D">small</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">The small boy ___ Mrs. Jones and school very much.</content>
+      <choice id="A">loves</choice>
+      <choice id="B">hates</choice>
+      <choice id="C">enjoys</choice>
+      <choice id="D">doesn't like</choice>
+   </question>
+
+</questions>

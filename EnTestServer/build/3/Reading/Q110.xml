@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">How old is Donny? Donny is ___ years old.</content>
+      <choice id="A">six</choice>
+      <choice id="B">seven</choice>
+      <choice id="C">eight</choice>
+      <choice id="D">nine</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">How does Donny go to school? ___.</content>
+      <choice id="A">On foot</choice>
+      <choice id="B">By bus</choice>
+      <choice id="C">By car</choice>
+      <choice id="D">By ship</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">Mother says: "It is good ___ answer the teacher's question."</content>
+      <choice id="A">at</choice>
+      <choice id="B">on</choice>
+      <choice id="C">for</choice>
+      <choice id="D">to</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">___ pours ink on the teacher's chair?</content>
+      <choice id="A">Donny</choice>
+      <choice id="B">Donny's mother</choice>
+      <choice id="C">The teacher</choice>
+      <choice id="D">Donny's classmate</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">Donny comes back home ___ today.</content>
+      <choice id="A">early</choice>
+      <choice id="B">late</choice>
+      <choice id="C">on time</choice>
+      <choice id="D">in a hurry</choice>
+   </question>
+
+</questions>

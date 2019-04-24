@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">What is the relationship between Sara and Nora? They are ___.</content>
+      <choice id="A">twin sisters</choice>
+      <choice id="B">twin brothers</choice>
+      <choice id="C">friends</choice>
+      <choice id="D">couples</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">The two beds are ___ the same colour.</content>
+      <choice id="A">at</choice>
+      <choice id="B">on</choice>
+      <choice id="C">in</choice>
+      <choice id="D">with</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">What is on Sara's bed? ___ is on her bed.</content>
+      <choice id="A">Her T-shirt</choice>
+      <choice id="B">Her pen</choice>
+      <choice id="C">Her school bag</choice>
+      <choice id="D">A map</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">What is on Nora's bed? ___ is on her bed.</content>
+      <choice id="A">Her trousers</choice>
+      <choice id="B">Her T-shirt</choice>
+      <choice id="C">Her pencil box</choice>
+      <choice id="D">Her book</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">What are beside the beds? ___.</content>
+      <choice id="A">Two chairs</choice>
+      <choice id="B">Two desks</choice>
+      <choice id="C">One chair</choice>
+      <choice id="D">Many books</choice>
+   </question>
+
+</questions>

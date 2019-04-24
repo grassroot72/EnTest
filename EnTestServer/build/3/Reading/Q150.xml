@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">It is the first day of ___.</content>
+      <choice id="A">September</choice>
+      <choice id="B">week</choice>
+      <choice id="C">school</choice>
+      <choice id="D">year</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Sam wants to ___.</content>
+      <choice id="A">go back to school</choice>
+      <choice id="B">meet his new teachers</choice>
+      <choice id="C">see his friends</choice>
+      <choice id="D">A, B and C</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Sam goes to school ___.</content>
+      <choice id="A">by bus</choice>
+      <choice id="B">by bike</choice>
+      <choice id="C">on foot</choice>
+      <choice id="D">by car</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">The bell rings, everyone runs ___.</content>
+      <choice id="A">to the classroom</choice>
+      <choice id="B">to home</choice>
+      <choice id="C">to school</choice>
+      <choice id="D">to the shop</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">Sam's new teacher is ___.</content>
+      <choice id="A">very young</choice>
+      <choice id="B">an old man</choice>
+      <choice id="C">a man</choice>
+      <choice id="D">a woman</choice>
+   </question>
+
+</questions>

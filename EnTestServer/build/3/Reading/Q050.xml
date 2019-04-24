@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">What does Einstein wear when he is walking in New York one day?</content>
+      <choice id="A">A new jacket.</choice>
+      <choice id="B">An old jacket.</choice>
+      <choice id="C">A new coat.</choice>
+      <choice id="D">An old coat.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">When his friend asks him to buy a new coat for the first time, Einstein doesn't do so because ___.</content>
+      <choice id="A">he doesn't like a new coat</choice>
+      <choice id="B">he likes the old coat</choice>
+      <choice id="C">everybody knows him and his old coat</choice>
+      <choice id="D">he won't let people judage him by his coat</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">When his friend asks him to buy a new coat after he becomes famous, Einstein doesn't do so because ___.</content>
+      <choice id="A">he doesn't like a new coat</choice>
+      <choice id="B">he likes the old coat</choice>
+      <choice id="C">he thinks he is known by his knowledge not by his coat</choice>
+      <choice id="D">everybody knows his old coat</choice>
+   </question>
+
+</questions>

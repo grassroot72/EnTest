@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">The cat goes to the river every day to ___.</content>
+      <choice id="A">catch fish</choice>
+      <choice id="B">eat fish</choice>
+      <choice id="C">play with fish</choice>
+      <choice id="D">swim</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">One day, a fish comes out and he ___.</content>
+      <choice id="A">eats it</choice>
+      <choice id="B">catches it</choice>
+      <choice id="C">Lets it go</choice>
+      <choice id="D">wants to make friends with it</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">The cat's friends come to see the fish, but they see ___.</content>
+      <choice id="A">nothing</choice>
+      <choice id="B">a small fish</choice>
+      <choice id="C">a big fish</choice>
+      <choice id="D">a dead fish</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">Where is the fish at last?</content>
+      <choice id="A">In the basket.</choice>
+      <choice id="B">In the river.</choice>
+      <choice id="C">In the cat's mouth.</choice>
+      <choice id="D">On the river bank.</choice>
+   </question>
+
+</questions>

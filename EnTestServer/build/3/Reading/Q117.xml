@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">I have a ___ at home.</content>
+      <choice id="A">desk</choice>
+      <choice id="B">bag</choice>
+      <choice id="C">computer</choice>
+      <choice id="D">pencil</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">My net friend is ___.</content>
+      <choice id="A">a boy</choice>
+      <choice id="B">a girl</choice>
+      <choice id="C">a nice boy</choice>
+      <choice id="D">a nice girl</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">We often chat ___ English on the web.</content>
+      <choice id="A">at</choice>
+      <choice id="B">in</choice>
+      <choice id="C">on</choice>
+      <choice id="D">out</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">How old is my net friend? He is ___ years old.</content>
+      <choice id="A">six</choice>
+      <choice id="B">seven</choice>
+      <choice id="C">ten</choice>
+      <choice id="D">eleven</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">Which Grade is my net friend in? He is in Grade ___.</content>
+      <choice id="A">four</choice>
+      <choice id="B">five</choice>
+      <choice id="C">ten</choice>
+      <choice id="D">six</choice>
+   </question>
+
+</questions>

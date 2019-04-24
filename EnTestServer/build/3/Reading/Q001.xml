@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">It is a ___ day.</content>
+      <choice id="A">windy</choice>
+      <choice id="B">bad</choice>
+      <choice id="C">cloudy</choice>
+      <choice id="D">sunny</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">The sun gives us ___.</content>
+      <choice id="A">heat</choice>
+      <choice id="B">water</choice>
+      <choice id="C">air</choice>
+      <choice id="D">nothing</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">If it is fine, we feel ___.</content>
+      <choice id="A">cold</choice>
+      <choice id="B">warm</choice>
+      <choice id="C">hard</choice>
+      <choice id="D">worse</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">The sun looks small because it is ___.</content>
+      <choice id="A">very near to us</choice>
+      <choice id="B">really very small</choice>
+      <choice id="C">far from us</choice>
+      <choice id="D">not big</choice>
+   </question>
+
+</questions>

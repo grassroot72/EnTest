@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Where does the train stop?</content>
+      <choice id="A">It stops by a river.</choice>
+      <choice id="B">It stops at the station.</choice>
+      <choice id="C">It stops at school.</choice>
+      <choice id="D">It stops at home.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">What is the weather like that day?</content>
+      <choice id="A">It is fine.</choice>
+      <choice id="B">It is cloudy.</choice>
+      <choice id="C">It is raining.</choice>
+      <choice id="D">It is windy.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">How many cakes does the man tell the boy to buy?</content>
+      <choice id="A">Only one.</choice>
+      <choice id="B">Two.</choice>
+      <choice id="C">Three.</choice>
+      <choice id="D">Many.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">The man wants to buy the cakes for ___.</content>
+      <choice id="A">the boy</choice>
+      <choice id="B">the woman</choice>
+      <choice id="C">himself</choice>
+      <choice id="D">both himself and the boy</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">Why does the boy buy only one cake?</content>
+      <choice id="A">Because he doesn't want to buy two cakes.</choice>
+      <choice id="B">Because he doesn't want to boy for himself.</choice>
+      <choice id="C">Because there is only one cake.</choice>
+      <choice id="D">Because he has no money.</choice>
+   </question>
+
+</questions>

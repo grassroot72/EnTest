@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">George is fat because ___.</content>
+      <choice id="A">he likes eating at home</choice>
+      <choice id="B">he often likes to go out and have lunch</choice>
+      <choice id="C">he eats a lot of good food</choice>
+      <choice id="D">he has lunch for a long time</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">They go to have lunch ___.</content>
+      <choice id="A">at 3:50</choice>
+      <choice id="B">at 10:40</choice>
+      <choice id="C">at 4:10</choice>
+      <choice id="D">at the lunch time</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">Which of the following is right?</content>
+      <choice id="A">Jack wants to leave and George wants, too.</choice>
+      <choice id="B">Jack wants to leave but George doesn't want to.</choice>
+      <choice id="C">George wants to leave but Jack doesn't.</choice>
+      <choice id="D">George and Jack don't want to leave.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">They buy ___ for lunch.</content>
+      <choice id="A">some good food</choice>
+      <choice id="B">some tea</choice>
+      <choice id="C">some eggs and tea</choice>
+      <choice id="D">some nice things</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">George can eat ___ food.</content>
+      <choice id="A">a lot of</choice>
+      <choice id="B">a little</choice>
+      <choice id="C">many</choice>
+      <choice id="D">some</choice>
+   </question>
+
+</questions>

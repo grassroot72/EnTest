@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">What is wrong with Bob?</content>
+      <choice id="A">He doesn't sleep at all.</choice>
+      <choice id="B">He can't sleep well at night.</choice>
+      <choice id="C">He has sweet dreams.</choice>
+      <choice id="D">He is alway awake.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">What does Bob's doctor give to him?</content>
+      <choice id="A">Some drink.</choice>
+      <choice id="B">Some suger.</choice>
+      <choice id="C">Some fruit.</choice>
+      <choice id="D">Some sleeping pill.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">After taking the sleeping pills on Sunday, Bob ___.</content>
+      <choice id="A">sleeps well</choice>
+      <choice id="B">still can't sleep at night</choice>
+      <choice id="C">goes directly to his office</choice>
+      <choice id="D">goes to see his doctor again</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">What is Bob doing from Monday to Tuesday?</content>
+      <choice id="A">He is playing cards.</choice>
+      <choice id="B">He is working at the office.</choice>
+      <choice id="C">He is sleeping.</choice>
+      <choice id="D">He is cooking at home.</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">What day is the day that Bob goes to the office?</content>
+      <choice id="A">Monday.</choice>
+      <choice id="B">Tuesday.</choice>
+      <choice id="C">Wednesday.</choice>
+      <choice id="D">Thursday.</choice>
+   </question>
+
+</questions>

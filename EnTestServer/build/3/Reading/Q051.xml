@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">They decide to do the job themselves because ___.</content>
+      <choice id="A">the windows are very easy to break</choice>
+      <choice id="B">the windows are very hard to open</choice>
+      <choice id="C">no one else can do this work well</choice>
+      <choice id="D">they don't want to spend more money</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">The work lasts for about ___.</content>
+      <choice id="A">two days</choice>
+      <choice id="B">less than a week</choice>
+      <choice id="C">three days</choice>
+      <choice id="D">more than a week</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">They have to get someone to make repairs for ___ windows.</content>
+      <choice id="A">three</choice>
+      <choice id="B">four</choice>
+      <choice id="C">five</choice>
+      <choice id="D">seven</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">They'll pay someone to work for them because ___.</content>
+      <choice id="A">they want to go to football matches</choice>
+      <choice id="B">they are no longer interested in it</choice>
+      <choice id="C">they have no more paint and brushes</choice>
+      <choice id="D">they really want to save some money</choice>
+   </question>
+
+</questions>

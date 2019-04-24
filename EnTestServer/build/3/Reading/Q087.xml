@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">How many people are there in my family? There are ___ people in my family?</content>
+      <choice id="A">four</choice>
+      <choice id="B">five</choice>
+      <choice id="C">six</choice>
+      <choice id="D">seven</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">What does my father do? My father is a ___.</content>
+      <choice id="A">teacher</choice>
+      <choice id="B">doctor</choice>
+      <choice id="C">worker</choice>
+      <choice id="D">nurse</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">What does my mother do? My mother is a ___.</content>
+      <choice id="A">doctor</choice>
+      <choice id="B">teacher</choice>
+      <choice id="C">worker</choice>
+      <choice id="D">nurse</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">I am a ___.</content>
+      <choice id="A">worker</choice>
+      <choice id="B">student</choice>
+      <choice id="C">doctor</choice>
+      <choice id="D">nurse</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">I live a ___ life.</content>
+      <choice id="A">bad</choice>
+      <choice id="B">sad</choice>
+      <choice id="C">hard</choice>
+      <choice id="D">happy</choice>
+   </question>
+
+</questions>

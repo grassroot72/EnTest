@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">Mr. Wang is ___.</content>
+      <choice id="A">writing a letter</choice>
+      <choice id="B">reading a book</choice>
+      <choice id="C">doing some sports</choice>
+      <choice id="D">mending his car</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Mrs. Wang is ___.</content>
+      <choice id="A">writing a letter</choice>
+      <choice id="B">reading a book</choice>
+      <choice id="C">doing some sports</choice>
+      <choice id="D">mending her bike</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">Lucy is ___.</content>
+      <choice id="A">writing a letter</choice>
+      <choice id="B">reading a book</choice>
+      <choice id="C">doing some sports</choice>
+      <choice id="D">running after a cat</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">Peter is ___.</content>
+      <choice id="A">running after a cat</choice>
+      <choice id="B">doing some sports</choice>
+      <choice id="C">reading a book</choice>
+      <choice id="D">mending his bike</choice>
+   </question>
+
+</questions>

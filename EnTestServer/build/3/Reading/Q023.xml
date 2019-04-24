@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">If Mrs. Smith doesn't wake him up, usually Mr. Smith may ___.</content>
+      <choice id="A">be late for work</choice>
+      <choice id="B">stay in bed all day</choice>
+      <choice id="C">get angry</choice>
+      <choice id="D">quarrel with his wife</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">They don't speak to each other because they ___.</content>
+      <choice id="A">have a quarrel</choice>
+      <choice id="B">can't speak</choice>
+      <choice id="C">want to be quiet</choice>
+      <choice id="D">don't like speaking</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">Mrs. Smith wakes up Mr. Smith with ___.</content>
+      <choice id="A">a clock</choice>
+      <choice id="B">a watch</choice>
+      <choice id="C">a call</choice>
+      <choice id="D">a piece of paper</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Mrs. Smith wakes up the next morning ___.</content>
+      <choice id="A">before 7</choice>
+      <choice id="B">after 7</choice>
+      <choice id="C">at 9:30</choice>
+      <choice id="D">at 6:30</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">Mr. Smith wakes up late by ___.</content>
+      <choice id="A">one hour</choice>
+      <choice id="B">an hour and a half</choice>
+      <choice id="C">two and a half hours</choice>
+      <choice id="D">two hours</choice>
+   </question>
+
+</questions>

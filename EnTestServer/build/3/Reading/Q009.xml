@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">Tom and Fred are ___.</content>
+      <choice id="A">brothers</choice>
+      <choice id="B">not at the same school</choice>
+      <choice id="C">at home</choice>
+      <choice id="D">classmates</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Tom and Fred have a fight ___.</content>
+      <choice id="A">at home</choice>
+      <choice id="B">after school</choice>
+      <choice id="C">outside the school</choice>
+      <choice id="D">in class</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">The teacher let them ___.</content>
+      <choice id="A">fight again</choice>
+      <choice id="B">do their homework</choice>
+      <choice id="C">say sorry to each other</choice>
+      <choice id="D">write their names</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">After school, ___ stay(s) in the school.</content>
+      <choice id="A">Fred</choice>
+      <choice id="B">Tom and Fred</choice>
+      <choice id="C">Tom, Fred and their teacher</choice>
+      <choice id="D">Tom</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">Fred cries because ___.</content>
+      <choice id="A">his name is too long</choice>
+      <choice id="B">he thinks he is wrong</choice>
+      <choice id="C">he thinks he is right</choice>
+      <choice id="D">he is hungry</choice>
+   </question>
+</questions>

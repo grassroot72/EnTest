@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Mr. Green works in ___.</content>
+      <choice id="A">a post office</choice>
+      <choice id="B">an office</choice>
+      <choice id="C">a station</choice>
+      <choice id="D">a school</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Mr. Green ___ every morning.</content>
+      <choice id="A">drinks some milk</choice>
+      <choice id="B">has some water</choice>
+      <choice id="C">drinks some tea</choice>
+      <choice id="D">has a cup of coffee</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">He leaves home at ___.</content>
+      <choice id="A">7:00</choice>
+      <choice id="B">7:30</choice>
+      <choice id="C">8:00</choice>
+      <choice id="D">8:05</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">Mr. Green doesn't hurry because ___.</content>
+      <choice id="A">it is still early</choice>
+      <choice id="B">he thinks it is Sunday</choice>
+      <choice id="C">he wants to have a holiday</choice>
+      <choice id="D">he thinks he is at the office</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">From the story we know ___.</content>
+      <choice id="A">Mr. Green doen't like his work</choice>
+      <choice id="B">Mr. Green is lazy</choice>
+      <choice id="C">Mr. Green doen't want to go to his office</choice>
+      <choice id="D">Mr. Green is late for his work</choice>
+   </question>
+
+</questions>

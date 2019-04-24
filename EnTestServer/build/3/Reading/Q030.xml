@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Why does the monkey look for something to eat?</content>
+      <choice id="A">Because he is happy.</choice>
+      <choice id="B">Because he is hungry.</choice>
+      <choice id="C">Because he is sad.</choice>
+      <choice id="D">Because he is sleepy.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">What does he do before he picks the peaches?</content>
+      <choice id="A">He climbs the peach trees.</choice>
+      <choice id="B">He jumps on the peach trees.</choice>
+      <choice id="C">He runs to the peach trees.</choice>
+      <choice id="D">He looks at the peach trees.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">What colour are the bananas?</content>
+      <choice id="A">They are green.</choice>
+      <choice id="B">They are purple.</choice>
+      <choice id="C">They are pink.</choice>
+      <choice id="D">They are yellow.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">What does the monkey do when he sees the hare?</content>
+      <choice id="A">He walks into it.</choice>
+      <choice id="B">He runs after it.</choice>
+      <choice id="C">He jumps at it.</choice>
+      <choice id="D">He flies over it.</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">How many dollars will the doctor charge the fat man? ___.</content>
+      <choice id="A">Three</choice>
+      <choice id="B">Thirty</choice>
+      <choice id="C">Thirteen</choice>
+      <choice id="D">Four</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">Whose tooth does the doctor pull out? ___.</content>
+      <choice id="A">A fat man's</choice>
+      <choice id="B">A patient's</choice>
+      <choice id="C">The fat man's son's</choice>
+      <choice id="D">The doctor's son's</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">What's the price to pull a tooth? The usual price is ___.</content>
+      <choice id="A">six dollars</choice>
+      <choice id="B">thirty dollars</choice>
+      <choice id="C">four dollars</choice>
+      <choice id="D">twenty-four dollars</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">The fat man's son shouts so ___.</content>
+      <choice id="A">lovely</choice>
+      <choice id="B">terribly</choice>
+      <choice id="C">wonderfully</choice>
+      <choice id="D">noisily</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">___ scares other four patients out of the doctor's office.</content>
+      <choice id="A">The doctor</choice>
+      <choice id="B">The fat man</choice>
+      <choice id="C">The fat man's son</choice>
+      <choice id="D">No one</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">What does Mark look like? Mark is ___.</content>
+      <choice id="A">clean</choice>
+      <choice id="B">dirty</choice>
+      <choice id="C">white</choice>
+      <choice id="D">black</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( C )">What is there on Mark's mouth? ___.</content>
+      <choice id="A">Noodles</choice>
+      <choice id="B">Rice</choice>
+      <choice id="C">Bread</choice>
+      <choice id="D">Cake</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">What did Mark eat the day before yesterday? Mark ate ___ the day before yesterday.</content>
+      <choice id="A">eggs</choice>
+      <choice id="B">bread</choice>
+      <choice id="C">milk</choice>
+      <choice id="D">apples</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">Does Mark's teacher guess right? ___.</content>
+      <choice id="A">Yes</choice>
+      <choice id="B">No</choice>
+      <choice id="C">I don't know</choice>
+      <choice id="D">Maybe</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( D )">Mark is a ___ student in school.</content>
+      <choice id="A">bad</choice>
+      <choice id="B">clean</choice>
+      <choice id="C">naughty</choice>
+      <choice id="D">good</choice>
+   </question>
+
+</questions>

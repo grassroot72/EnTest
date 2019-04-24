@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Where are Lisa and her family?</content>
+      <choice id="A">At home.</choice>
+      <choice id="B">At the beach.</choice>
+      <choice id="C">At the park.</choice>
+      <choice id="D">On a mountain.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Who can't swim?</content>
+      <choice id="A">Jeff Miller.</choice>
+      <choice id="B">Lisa.</choice>
+      <choice id="C">Lisa's parents.</choice>
+      <choice id="D">Lisa and her parents.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Who helps Lisa?</content>
+      <choice id="A">A lifeguard.</choice>
+      <choice id="B">An old man.</choice>
+      <choice id="C">A girl.</choice>
+      <choice id="D">A boy.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">What do Lisa's parents see in the water?</content>
+      <choice id="A">A bird.</choice>
+      <choice id="B">A bottle.</choice>
+      <choice id="C">A shark.</choice>
+      <choice id="D">A woman.</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Mrs King opens the window ___.</content>
+      <choice id="A">on a Saturday morning</choice>
+      <choice id="B">in the evening</choice>
+      <choice id="C">in May</choice>
+      <choice id="D">before she leaves home</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Teddy eats breakfast ___.</content>
+      <choice id="A">in the open air</choice>
+      <choice id="B">after he washes his face</choice>
+      <choice id="C">after he gets to New York</choice>
+      <choice id="D">at eight o'clock</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">They are going to ___.</content>
+      <choice id="A">go to school</choice>
+      <choice id="B">get there by bike</choice>
+      <choice id="C">get there next Sunday</choice>
+      <choice id="D">New York</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">Teddy ___.</content>
+      <choice id="A">is helping his mother with the things</choice>
+      <choice id="B">is six years old, but he doesn't like the zoo</choice>
+      <choice id="C">isn't happy because he gets up late</choice>
+      <choice id="D">has a dream and his mother is in it</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( C )">Which of the following is NOT true?</content>
+      <choice id="A">Teddy thinks his mother knows his dream.</choice>
+      <choice id="B">It is a fine day and Mrs King wants to take Teddy to New York.</choice>
+      <choice id="C">Teddy's mother is preparing for the travel.</choice>
+      <choice id="D">They wants to go to New York by train.</choice>
+   </question>
+
+</questions>

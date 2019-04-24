@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Which Festival is the Chinese New Year? ___.</content>
+      <choice id="A">Spring festival</choice>
+      <choice id="B">Autumn festival</choice>
+      <choice id="C">Christmas</choice>
+      <choice id="D">May day</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">When does Spring Festival come? ___.</content>
+      <choice id="A">May</choice>
+      <choice id="B">April</choice>
+      <choice id="C">June</choice>
+      <choice id="D">February</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Which kind of food do people eat on Spring Festival day? ___.</content>
+      <choice id="A">jiaozi</choice>
+      <choice id="B">moon cake</choice>
+      <choice id="C">zongzi</choice>
+      <choice id="D">noodle</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">What do people do on Spring Festival? ___.</content>
+      <choice id="A">Clean their houses</choice>
+      <choice id="B">Do some shopping</choice>
+      <choice id="C">Play football</choice>
+      <choice id="D">A and B</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">Who celebrates Spring Festival? ___.</content>
+      <choice id="A">Chinese</choice>
+      <choice id="B">American</choice>
+      <choice id="C">English</choice>
+      <choice id="D">French</choice>
+   </question>
+
+</questions>

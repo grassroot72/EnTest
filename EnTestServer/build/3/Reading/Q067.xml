@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">Mike is a ___.</content>
+      <choice id="A">teacher</choice>
+      <choice id="B">worker</choice>
+      <choice id="C">student</choice>
+      <choice id="D">doctor</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">Mike doesn't go to bed because ___.</content>
+      <choice id="A">he isn't full.</choice>
+      <choice id="B">he isn't tired.</choice>
+      <choice id="C">he has some work to do</choice>
+      <choice id="D">he wants to watch the game</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">The game lasts ___ hours.</content>
+      <choice id="A">two</choice>
+      <choice id="B">three</choice>
+      <choice id="C">four</choice>
+      <choice id="D">five</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( B )">Mike doesn't take off his glasses because ___.</content>
+      <choice id="A">he wants to see more clearly</choice>
+      <choice id="B">he is very tired and forgets it</choice>
+      <choice id="C">he wants to read a book on the bed</choice>
+      <choice id="D">he doesn't have any time to do it</choice>
+   </question>
+
+</questions>

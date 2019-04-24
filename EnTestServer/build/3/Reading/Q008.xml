@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">The teacher is ___.</content>
+      <choice id="A">happy with his class</choice>
+      <choice id="B">satisfied with his class</choice>
+      <choice id="C">angry with his class</choice>
+      <choice id="D">glad with his class</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">What does the sentence "I think a girl is like five hundred ducks" mean?</content>
+      <choice id="A">The teacher thinks the girls are just like ducks.</choice>
+      <choice id="B">The teacher thinks the girls are too noisy.</choice>
+      <choice id="C">The teacher thinks the girls are very cute.</choice>
+      <choice id="D">The teacher likes his students.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Who is asking for the teacher?</content>
+      <choice id="A">One thousand ducks.</choice>
+      <choice id="B">Two girls in his class.</choice>
+      <choice id="C">His wife and his daughter.</choice>
+      <choice id="D">Two women.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">From this passage, we know that ___.</content>
+      <choice id="A">the students are unhappy with their teacher</choice>
+      <choice id="B">the teacher has some ducks in his class</choice>
+      <choice id="C">the teacher's wife and daughter take some ducks with them</choice>
+      <choice id="D">a girl has five hundred ducks</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Some ants in America can be very ___.</content>
+      <choice id="A">heavy</choice>
+      <choice id="B">strong</choice>
+      <choice id="C">light</choice>
+      <choice id="D">thin</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">People and animals fear ___.</content>
+      <choice id="A">one kind of ants</choice>
+      <choice id="B">elephants</choice>
+      <choice id="C">insects</choice>
+      <choice id="D">snakes</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">People get away from the ants because ___.</content>
+      <choice id="A">they can eat and kill elephants</choice>
+      <choice id="B">they can also eat wood houses</choice>
+      <choice id="C">they travel in large groups</choice>
+      <choice id="D">they can even kill people</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">Where are the insects and the snakes after the ants pass through?</content>
+      <choice id="A">They hide under the ground.</choice>
+      <choice id="B">They move to other places before the ants come.</choice>
+      <choice id="C">They are killed by the ants.</choice>
+      <choice id="D">They are killed by people.</choice>
+   </question>
+
+</questions>

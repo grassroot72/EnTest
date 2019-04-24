@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">If we get up early and go to bed early, we'll ___.</content>
+      <choice id="A">have enough exercise</choice>
+      <choice id="B">be healthy</choice>
+      <choice id="C">think better</choice>
+      <choice id="D">have strong blood</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">If people don't have enough sleep, maybe he or she ___.</content>
+      <choice id="A">will become wise</choice>
+      <choice id="B">won't do well in his or her work</choice>
+      <choice id="C">will go to school in time</choice>
+      <choice id="D">will have enough sleep</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">A person needs exercise because ___.</content>
+      <choice id="A">it makes him healthy</choice>
+      <choice id="B">he or she has a lot of homework to do</choice>
+      <choice id="C">he or she is strong enough</choice>
+      <choice id="D">he or she does exercise</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">How to keep healthy? ___.</content>
+      <choice id="A">Eat a lot</choice>
+      <choice id="B">Go to bed late and get up late</choice>
+      <choice id="C">sleep four hours a day</choice>
+      <choice id="D">Doing exercise</choice>
+   </question>
+
+</questions>

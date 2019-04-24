@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">He goes to his friend ___.</content>
+      <choice id="A">by boat</choice>
+      <choice id="B">on foot</choice>
+      <choice id="C">by water</choice>
+      <choice id="D">by bus</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">The man is ___ to find the river bigger than before.</content>
+      <choice id="A">glad</choice>
+      <choice id="B">satisfied</choice>
+      <choice id="C">pleased</choice>
+      <choice id="D">surprised</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">The man ___.</content>
+      <choice id="A">sees his friend</choice>
+      <choice id="B">doesn't see his friend</choice>
+      <choice id="C">crosses the river</choice>
+      <choice id="D">finds his friend at home</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">He has ___ for dinner in the end.</content>
+      <choice id="A">nothing</choice>
+      <choice id="B">his friend's cakes</choice>
+      <choice id="C">his own cakes</choice>
+      <choice id="D">some water</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">What do you learn from this story?</content>
+      <choice id="A">Don't think others will give you anything to eat.</choice>
+      <choice id="B">Don't throw away anything useful.</choice>
+      <choice id="C">The water will rise after a rainfall.</choice>
+      <choice id="D">Bring something to eat when you visit your friend.</choice>
+   </question>
+
+</questions>

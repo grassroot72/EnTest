@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Who is mother? ___.</content>
+      <choice id="A">Sun</choice>
+      <choice id="B">Moon</choice>
+      <choice id="C">Star</choice>
+      <choice id="D">Tree</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Who is Father? ___.</content>
+      <choice id="A">Moon</choice>
+      <choice id="B">Sun</choice>
+      <choice id="C">Tree</choice>
+      <choice id="D">Bird</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">How does the Mother make the tree? She makes the tree ___.</content>
+      <choice id="A">sweet</choice>
+      <choice id="B">sad</choice>
+      <choice id="C">smart</choice>
+      <choice id="D">happy</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">How does the sun make the tree? It makes the tree ___.</content>
+      <choice id="A">strong</choice>
+      <choice id="B">warm</choice>
+      <choice id="C">cool</choice>
+      <choice id="D">clever</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">Who am I? I am their ___.</content>
+      <choice id="A">son</choice>
+      <choice id="B">daughter</choice>
+      <choice id="C">student</choice>
+      <choice id="D">doctor</choice>
+   </question>
+
+</questions>

@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">What does Edie want to do?</content>
+      <choice id="A">He wants to go to the clown school.</choice>
+      <choice id="B">He wants to go to the cinema.</choice>
+      <choice id="C">He wants to see a clown.</choice>
+      <choice id="D">He wants to make a clown.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">What doesn't his mother do for him?</content>
+      <choice id="A">She makes him a cake.</choice>
+      <choice id="B">She gives him a red nose.</choice>
+      <choice id="C">She helps him put on the uniform and make his mouth bigger.</choice>
+      <choice id="D">She paints a tear under one of his eyes.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Who looks into the mirror?</content>
+      <choice id="A">Edie's mother.</choice>
+      <choice id="B">Edie's father.</choice>
+      <choice id="C">Edie.</choice>
+      <choice id="D">Edie's friends.</choice>
+   </question>
+
+</questions>

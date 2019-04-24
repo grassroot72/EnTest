@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( D )">What does Mr. Smith have?</content>
+      <choice id="A">A big cat.</choice>
+      <choice id="B">A small cat.</choice>
+      <choice id="C">Two dogs.</choice>
+      <choice id="D">A big cat and a small cat.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( D )">What is Mr. Smith's friend's surname?</content>
+      <choice id="A">His surname is Waters.</choice>
+      <choice id="B">His surname is Black.</choice>
+      <choice id="C">His surname is Miller</choice>
+      <choice id="D">His surname is Brown.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">Why are three two holes in the door?</content>
+      <choice id="A">To let the cats in and out.</choice>
+      <choice id="B">To help Mr. Smith go out.</choice>
+      <choice id="C">To help feed the cats.</choice>
+      <choice id="D">To get newpaper through them.</choice>
+   </question>
+
+</questions>

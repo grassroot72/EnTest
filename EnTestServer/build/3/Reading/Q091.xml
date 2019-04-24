@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Spring is the ___ season of the year.</content>
+      <choice id="A">One</choice>
+      <choice id="B">first</choice>
+      <choice id="C">second</choice>
+      <choice id="D">third</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">In China, spring comes in ___.</content>
+      <choice id="A">January</choice>
+      <choice id="B">February</choice>
+      <choice id="C">April</choice>
+      <choice id="D">May</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( A )">The weather is getting ___.</content>
+      <choice id="A">warmer and warmer</choice>
+      <choice id="B">colder and colder</choice>
+      <choice id="C">hotter and hotter</choice>
+      <choice id="D">longer and longer</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( C )">The leaves on the trees begin to turn ___.</content>
+      <choice id="A">red</choice>
+      <choice id="B">yellow</choice>
+      <choice id="C">green</choice>
+      <choice id="D">blue</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( A )">Spring is also a ___ season.</content>
+      <choice id="A">sowing</choice>
+      <choice id="B">harvest</choice>
+      <choice id="C">planting</choice>
+      <choice id="D">watering</choice>
+   </question>
+
+</questions>

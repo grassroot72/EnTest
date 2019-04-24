@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">When does this story happen?</content>
+      <choice id="A">On Friday.</choice>
+      <choice id="B">At night.</choice>
+      <choice id="C">On Sunday.</choice>
+      <choice id="D">A sunny day.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">What is their mother doing when they are playing?</content>
+      <choice id="A">Preparing the lunch.</choice>
+      <choice id="B">Doing some shopping.</choice>
+      <choice id="C">Buying some vegetable.</choice>
+      <choice id="D">Cleaning the room.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">Why does Joan cry?</content>
+      <choice id="A">She is hungry.</choice>
+      <choice id="B">She wants to sleep.</choice>
+      <choice id="C">She sees something strange.</choice>
+      <choice id="D">Her toy is broken.</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">How does the toy break?</content>
+      <choice id="A">Joan hits Tom on the head with it.</choice>
+      <choice id="B">Tom hits Joan on the head with it.</choice>
+      <choice id="C">Joan hits Tom on the face.</choice>
+      <choice id="D">Tom hits Joan on the arm.</choice>
+   </question>
+
+</questions>

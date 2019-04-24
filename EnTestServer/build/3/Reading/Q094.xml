@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( C )">What is the weather like today? It's a ___ day.</content>
+      <choice id="A">sunny</choice>
+      <choice id="B">cloudy</choice>
+      <choice id="C">rainy</choice>
+      <choice id="D">fine</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">A woman with a ___ gets on the bus.</content>
+      <choice id="A">dog</choice>
+      <choice id="B">cat</choice>
+      <choice id="C">bird</choice>
+      <choice id="D">fox</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( B )">The dog wants to sit on the ___.</content>
+      <choice id="A">table</choice>
+      <choice id="B">chair</choice>
+      <choice id="C">desk</choice>
+      <choice id="D">floor</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( A )">The woman ___ her dog.</content>
+      <choice id="A">pays for</choice>
+      <choice id="B">pays on</choice>
+      <choice id="C">pays at</choice>
+      <choice id="D">pays off</choice>
+   </question>
+
+   <question type="4C" id="5">
+      <content key="( B )">The woman must not put the dog's ___ on the chair.</content>
+      <choice id="A">arms</choice>
+      <choice id="B">feet</choice>
+      <choice id="C">body</choice>
+      <choice id="D">tail</choice>
+   </question>
+
+</questions>

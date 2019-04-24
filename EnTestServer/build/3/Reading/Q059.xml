@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( B )">Who goes to buy the meat at last?</content>
+      <choice id="A">Tim.</choice>
+      <choice id="B">Jim.</choice>
+      <choice id="C">Tom</choice>
+      <choice id="D">Tim and Jim.</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( A )">Tim says he is ___.</content>
+      <choice id="A">not good at cooking</choice>
+      <choice id="B">good at cooking</choice>
+      <choice id="C">likes meat</choice>
+      <choice id="D">going to cook the meat</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( D )">What doesn't Jim do?</content>
+      <choice id="A">Cook the meat.</choice>
+      <choice id="B">Cut the bread.</choice>
+      <choice id="C">Buy the meat.</choice>
+      <choice id="D">Find a dog.</choice>
+   </question>
+
+</questions>

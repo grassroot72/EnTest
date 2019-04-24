@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<questions>
+
+   <question type="4C" id="1">
+      <content key="( A )">Mr. Smith has a bad heart. It means he is ___.</content>
+      <choice id="A">a sick man</choice>
+      <choice id="B">a bad man</choice>
+      <choice id="C">an old man</choice>
+      <choice id="D">a poor man</choice>
+   </question>
+
+   <question type="4C" id="2">
+      <content key="( B )">Which of the follow is true?</content>
+      <choice id="A">Professor Carl wants to woman's father to give his heart.</choice>
+      <choice id="B">Mr. Smith get a new heart.</choice>
+      <choice id="C">Professor Carl asks the woman for a heart.</choice>
+      <choice id="D">The woman gives her heart to Mr. Smith.</choice>
+   </question>
+
+   <question type="4C" id="3">
+      <content key="( C )">Mr. Smith ___.</content>
+      <choice id="A">only lives for eighteen days after he goes into a big hospital for the first time</choice>
+      <choice id="B">lives five hours after the operation</choice>
+      <choice id="C">dies on December 21st</choice>
+      <choice id="D">dies on December 18th</choice>
+   </question>
+
+   <question type="4C" id="4">
+      <content key="( D )">Profess Carl's work helps ___.</content>
+      <choice id="A">doctors only</choice>
+      <choice id="B">sick people little</choice>
+      <choice id="C">neither doctors nor Mr. Smith</choice>
+      <choice id="D">both doctors and sick people</choice>
+   </question>
+
+</questions>
