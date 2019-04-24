@@ -20,6 +20,7 @@ public class MailReceiveTask05 implements Runnable {
 		try {
 			
 			System.out.println("Task05 searching ...");
+            //boolean isFound = mMailReceiver.searchMail("来自John的职位分享201605", mTaskList);
 			mMailReceiver.searchMail("来自John的职位分享201605", mTaskList);
 			
 			// task to run goes here

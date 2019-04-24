@@ -20,6 +20,7 @@ public class MailReceiveTask02 implements Runnable {
 		try {
 			
 			System.out.println("Task02 searching ...");
+            // boolean isFound = mMailReceiver.searchMail("2016.10.16", mTaskList);
 			mMailReceiver.searchMail("2016.10.16", mTaskList);
 			
 			// task to run goes here
