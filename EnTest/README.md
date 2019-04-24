@@ -1,4 +1,4 @@
-# fbputs
+# EnTest
 ```
 This is an Android app to receive some English articles from emails.
 
