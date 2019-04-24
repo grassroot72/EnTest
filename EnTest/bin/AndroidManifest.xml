@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.llsoft.entest"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name=".TestPageActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".EmailSettingsActivity"
+            android:label="@string/activity_email_settings_title"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="com.llsoft.entest.EmailSettingsActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".SubscriptionSettingsActivity"
+            android:label="@string/activity_subscription_settings_title"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="com.llsoft.entest.SubscriptionSettingsActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="GrammarQuestionsActivity"
+            android:label="@string/activity_grammar_questions"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="com.llsoft.entest.GrammarQuestionsActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".ReadingPassageActivity"
+            android:label="@string/activity_reading_passage"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="com.llsoft.entest.ReadingPassageActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".ReadingQuestionsActivity"
+            android:label="@string/activity_reading_questions"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="com.llsoft.entest.ReadingQuestionsActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         
+        <activity
+            android:name=".HelpActivity"
+            android:label="@string/activity_help_title"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="com.llsoft.entest.HelpActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <service android:name=".MailSendService" android:exported="false" />
+        <service android:name=".MailReceiveService" android:exported="false" />
+        
+        <provider
+            android:name=".TestListContentProvider"
+            android:authorities="com.llsoft.testlistcontentprovider"
+            android:exported="false" />
+        
+    </application>
+
+</manifest>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+    
+    <!-- Email Settings -->
+    <TextView 
+        android:id="@+id/tv_settings_title_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:padding="3dp"
+        android:gravity="center"
+        android:background="#808080"
+        android:textColor="#EEEEEE"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:text="@string/settings_title_email" />
+
+    <TextView
+        android:id="@+id/tv_settings_pop3_server"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_title_email"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:labelFor="@+id/ac_settings_pop3_server_name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_pop3_server" />
+    
+    <AutoCompleteTextView
+        android:id="@+id/ac_settings_pop3_server_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_title_email"
+        android:layout_toEndOf="@+id/tv_settings_pop3_server"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:padding="6dp"
+        android:singleLine="true"
+        android:inputType="text"
+        android:textSize="18sp"
+        android:hint="@string/settings_pop3_server_name_hint"
+        android:completionThreshold="1" />
+
+    <TextView
+        android:id="@+id/tv_settings_smtp_server"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_pop3_server"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:labelFor="@+id/ac_settings_smtp_server_name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_smtp_server" />
+    
+    <AutoCompleteTextView
+        android:id="@+id/ac_settings_smtp_server_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_pop3_server"
+        android:layout_toEndOf="@+id/tv_settings_smtp_server"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:padding="6dp"
+        android:singleLine="true"
+        android:inputType="text"
+        android:textSize="18sp"
+        android:hint="@string/settings_smtp_server_name_hint"
+        android:completionThreshold="1" />
+
+    <TextView
+        android:id="@+id/tv_settings_email_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_smtp_server"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:labelFor="@+id/et_settings_email_box_name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_email_box" />
+    
+    <EditText
+        android:id="@+id/et_settings_email_box_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_smtp_server"
+        android:layout_toEndOf="@+id/tv_settings_email_box"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:padding="6dp"
+        android:singleLine="true"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        android:hint="@string/settings_email_box_name_hint" />
+    
+    <TextView
+        android:id="@+id/tv_settings_email_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_email_box"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:labelFor="@+id/et_settings_email_user_name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_email_user" />
+    
+    <EditText
+        android:id="@+id/et_settings_email_user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_email_box"
+        android:layout_toEndOf="@+id/tv_settings_email_user"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:padding="6dp"
+        android:singleLine="true"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        android:hint="@string/settings_email_user_name_hint" />
+
+    <TextView
+        android:id="@+id/tv_settings_passcode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_email_user"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:labelFor="@+id/et_settings_passcode_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_passcode" />
+    
+    <EditText
+        android:id="@+id/et_settings_passcode_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_email_user"
+        android:layout_toEndOf="@+id/tv_settings_passcode"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:padding="6dp"
+        android:singleLine="true"
+        android:inputType="textPassword"
+        android:textSize="18sp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/tv_settings_email_status"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:layout_below="@+id/et_settings_passcode_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:background="#808080"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    
+</RelativeLayout>

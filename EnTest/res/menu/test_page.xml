@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.llsoft.entest.TestListActivity" >
+
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/action_search" />
+    
+    <item
+        android:id="@+id/action_subscription_settings"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/action_subscription_settings"/>
+    
+    <item
+        android:id="@+id/action_email_settings"
+        android:orderInCategory="102"
+        android:showAsAction="never"
+        android:title="@string/action_email_settings"/>
+    
+    <item
+        android:id="@+id/action_show_grammar_only"
+        android:orderInCategory="103"
+        android:showAsAction="never"
+        android:title="@string/action_show_grammar_only"/>
+
+    <item
+        android:id="@+id/action_show_reading_only"
+        android:orderInCategory="104"
+        android:showAsAction="never"
+        android:title="@string/action_show_reading_only"/>
+    
+    <item
+        android:id="@+id/action_show_downloaded_only"
+        android:orderInCategory="105"
+        android:showAsAction="never"
+        android:title="@string/action_show_downloaded_only"/>
+    
+    <item
+        android:id="@+id/action_show_all"
+        android:orderInCategory="106"
+        android:showAsAction="never"
+        android:title="@string/action_show_all"/>
+    
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="107"
+        android:showAsAction="never"
+        android:title="@string/action_help"/>
+
+</menu>

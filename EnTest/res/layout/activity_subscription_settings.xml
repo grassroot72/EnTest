@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <!-- Subscription Preference -->
+    <TextView
+        android:id="@+id/tv_settings_level_preference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:padding="3dp"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:background="#808080"
+        android:textColor="#EEEEEE"
+        android:textStyle="bold"
+        android:text="@string/settings_level_preference" />
+
+    <TextView
+        android:id="@+id/tv_settings_level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_level_preference"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_level" />
+
+    <TextView
+        android:id="@+id/tv_settings_level_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_level_preference"
+        android:layout_toEndOf="@+id/tv_settings_level"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_level_number" />
+
+    <SeekBar
+        android:id="@+id/sb_settings_level_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_level_preference"
+        android:layout_toEndOf="@+id/tv_settings_level_number"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="12dp"
+        android:max="90" />
+    
+    <!-- Subscription receiving preference -->
+    <TextView
+        android:id="@+id/tv_settings_receiving_preference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_level"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:padding="3dp"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:background="#808080"
+        android:textColor="#EEEEEE"
+        android:textStyle="bold"
+        android:text="@string/settings_receiving_preference" />
+
+    <TextView
+        android:id="@+id/tv_settings_grammar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_receiving_preference"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_grammer" />
+
+    <TextView
+        android:id="@+id/tv_settings_grammar_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_receiving_preference"
+        android:layout_toEndOf="@+id/tv_settings_grammar"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_grammer_count" />
+
+    <SeekBar
+        android:id="@+id/sb_settings_grammar_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_receiving_preference"
+        android:layout_toEndOf="@+id/tv_settings_grammar_count"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="12dp"
+        android:max="30" />
+
+    <TextView
+        android:id="@+id/tv_settings_reading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_grammar"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_reading" />
+
+    <TextView
+        android:id="@+id/tv_settings_reading_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_grammar"
+        android:layout_toEndOf="@+id/tv_settings_reading"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_reading_count" />
+
+    <SeekBar
+        android:id="@+id/sb_settings_reading_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_grammar"
+        android:layout_toEndOf="@+id/tv_settings_reading_count"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="12dp"
+        android:max="30" />
+    
+    <!-- Subscription test time limitation preference -->
+    <TextView
+        android:id="@+id/tv_settings_test_time_preference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_reading"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:padding="3dp"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:background="#808080"
+        android:textColor="#EEEEEE"
+        android:textStyle="bold"
+        android:text="@string/settings_test_time_preference" />
+
+    <TextView
+        android:id="@+id/tv_settings_grammar_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_test_time_preference"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_grammer" />
+
+    <TextView
+        android:id="@+id/tv_settings_grammar_time_limit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_test_time_preference"
+        android:layout_toEndOf="@+id/tv_settings_grammar_time"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_grammer_time_limit" />
+
+    <SeekBar
+        android:id="@+id/sb_settings_grammar_time_limit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_test_time_preference"
+        android:layout_toEndOf="@+id/tv_settings_grammar_time_limit"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="12dp"
+        android:max="200" />
+
+    <TextView
+        android:id="@+id/tv_settings_reading_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_grammar_time"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_reading" />
+
+    <TextView
+        android:id="@+id/tv_settings_reading_time_limit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_grammar_time"
+        android:layout_toEndOf="@+id/tv_settings_reading_time"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="2dp"
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/settings_reading_time_limit" />
+
+    <SeekBar
+        android:id="@+id/sb_settings_reading_time_limit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_settings_grammar_time"
+        android:layout_toEndOf="@+id/tv_settings_reading_time_limit"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="12dp"
+        android:max="200" />
+    
+    <TextView
+        android:id="@+id/tv_settings_subscription_status"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:layout_below="@+id/sb_settings_reading_time_limit"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:background="#808080"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    
+    <Button
+        android:id="@+id/btn_settings_subscription_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/settings_subscription_submit"
+        android:onClick="onSubmitClick"
+        style="?android:attr/buttonBarButtonStyle" />
+    
+</RelativeLayout>

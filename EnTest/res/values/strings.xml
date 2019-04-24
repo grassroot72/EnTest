@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TestListActivity -->
+    <string name="app_name">E.练</string>
+    
+    <!-- Action items in testlist -->
+    <string name="action_search">搜索</string>
+    <string name="action_subscription_settings">练习设置</string>
+    <string name="action_email_settings">邮箱设置</string>
+    <string name="action_show_grammar_only">只显示语法练习</string>
+    <string name="action_show_reading_only">只显示阅读练习</string>
+    <string name="action_show_downloaded_only">只显示已下载练习</string>
+    <string name="action_show_all">显示全部练习</string>
+    <string name="action_activate_settings">激活编辑</string>
+    <string name="action_save_settings">保存</string>
+    <string name="action_submit_keys">提交答案</string>
+    <string name="action_passage_countdown_timer">00</string>
+    <string name="action_questions_countdown_timer">00</string>
+    <string name="action_help">帮助</string>
+
+    <!-- email settings -->
+    <string name="activity_email_settings_title">邮箱设置</string>
+    <string name="settings_title_email">电子邮箱</string>
+    <string name="settings_pop3_server">收件服务器</string>
+    <string name="settings_pop3_server_name_hint">[pop.sina.com]</string>
+    <string name="settings_smtp_server">发件服务器</string>
+    <string name="settings_smtp_server_name_hint">[smtp.sina.com]</string>
+    <string name="settings_email_box">邮箱名称</string>
+    <string name="settings_email_box_name_hint">[xxxxxx@sina.com]</string>
+    <string name="settings_email_user">账户</string>
+    <string name="settings_email_user_name_hint">[xxxxxx@sina.com] 或 [xxxxxx]</string>
+    <string name="settings_passcode">密码</string>
+    
+    
+    <!-- level preference -->
+    <string name="activity_subscription_settings_title">练习设置</string>
+    <string name="settings_level_preference">练习分级选择（级）</string>
+    <string name="settings_level">级别</string>
+    <string name="settings_level_number">(3)</string>
+
+    <!-- test type -->
+    <string name="settings_grammer">语法</string>
+    <string name="settings_reading">阅读</string>
+    
+    <!-- subscription preference -->
+    <string name="settings_receiving_preference">每日接收练习数量（个）</string>
+    <string name="settings_grammer_count">(0)</string>
+    <string name="settings_reading_count">(1)</string>
+    
+    <!-- test time preference -->
+    <string name="settings_test_time_preference">练习限时（分钟）</string>
+    <string name="settings_grammer_time_limit">(10)</string>
+    <string name="settings_reading_time_limit">(10)</string>
+
+    <string name="settings_subscription_submit">保存练习设置</string>
+    
+    <!-- grammar questions -->
+    <string name="activity_grammar_questions">语法 - 习题</string>
+    
+    <!-- reading passage -->
+    <string name="activity_reading_passage">阅读 - 短文</string>
+    <string name="activity_reading_questions">阅读 - 习题</string>
+    
+    
+    <!-- help -->
+    <string name="activity_help_title">帮助</string>
+    
+    <string name="help_brief_content">此App是一个以订阅形式提供练习题的应用。目的是让孩子们能够提高英语语法及阅读能力。题型都是选择题，练习有时间限定，时间限定可以在练习设置里调整。</string>
+    
+    <string name="help_email_settings_title">邮箱设置</string>
+    <string name="help_email_settings_content">邮箱设置非常简单，您只需要将自己平时所用邮箱的设置填入邮箱设置界面，点击保存即可。如果您没有能用pop3/smtp收发邮件的邮箱，我推荐您注册一个免费的新浪邮箱，5分钟内就可以设置好所有内容了。需要帮助的可以微信联系我。</string>
+    
+    <string name="help_email_subscription_title">练习设置</string>
+    <string name="help_email_subscription_content">练习设置也非常简单，您只需要选择相应的内容，然后点击“保存练习设置”即可。由于我目前资源有限，只准备了3级的阅读练习，所以某些选项我刻意禁止掉了，因为没有相应的内容。我会在以后加入相应的内容。</string>
+    
+    <string name="help_invitation_title">一起丰富内容</string>
+    <string name="help_invitation_content">希望家长们能够帮助我丰富练习的内容。对此项目感兴趣的家长请扫描下面的二维码加我微信，谢谢。</string>
+    
+    <string name="qrcode">二维码名片</string>
+</resources>
