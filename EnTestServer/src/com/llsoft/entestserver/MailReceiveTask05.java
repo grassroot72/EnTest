@@ -25,9 +25,9 @@ public class MailReceiveTask05 implements Runnable {
 			// task to run goes here
 			/*
 			if (isFound) {
-				System.out.println("charming_lei72@sina.com 找到了!!");
+				System.out.println("charming_lei72@sina.com found!!");
 			} else {
-				System.out.println("charming_lei72@sina.com 没找到!!");
+				System.out.println("charming_lei72@sina.com not found!!");
 			}
 			*/
 			

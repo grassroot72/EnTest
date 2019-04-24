@@ -373,13 +373,13 @@ public class MailReceiver {
 		for (int j = 0, n = multipart.getCount(); j < n; j++) {
 	    
 			Part part = multipart.getBodyPart(j);
-	        // 解包, 取出 MultiPart的各个部分, 每部分可能是邮件内容,
-	        // 也可能是另一个小包裹(MultipPart)
-	        // 判断此包裹内容是不是一个小包裹, 一般这一部分是 正文 Content-Type: multipart/alternative
+	        // extract, discompose MultiParts,
+	        // maybe a (MultipPart)
+	        // if it is Content-Type: multipart/alternative
 	        if (part.getContent() instanceof Multipart) {
-	        	// 转成小包裹
+	        	// turn to smaller part
 	            Multipart p = (Multipart) part.getContent();
-	            //递归迭代
+	            // iteration
 	            reMultipart(p);
 	        } else {
 	        	rePart(part);
@@ -388,7 +388,7 @@ public class MailReceiver {
 	}
 	
 	private void getAttachment(Part part) throws Exception {
-		// MimeUtility.decodeText解决附件名乱码问题
+		// MimeUtility.decodeText 
 		String strFileNmae = MimeUtility.decodeText(part.getFileName());
 	    InputStream in = part.getInputStream();
 	    
@@ -397,7 +397,8 @@ public class MailReceiver {
 	
 	private void getBodyText(Part part) throws Exception {
 		
-		// 如果是文本类型的附件，通过getContent方法可以取到文本内容，但这不是我们需要的结果，所以在这里要做判断
+		// if it is text attachment，getContent method can take the content,
+        // but that is not what we expect
 		boolean isContainTextAttach = part.getContentType().indexOf("name") > 0;
 		
 		if (part.getContentType().startsWith("text/plain") && !isContainTextAttach) {
@@ -406,7 +407,7 @@ public class MailReceiver {
 			bodytext.append(part.getContent().toString());
 			
 		} else {
-			//System.out.println("HTML内容：" + part.getContent());
+			//System.out.println("HTML content：" + part.getContent());
 		}
 	}
 	
