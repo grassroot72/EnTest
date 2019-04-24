@@ -3,7 +3,7 @@
 This is an Android app to receive some English articles from emails.
 There are some questions with the articles. Within some certain time, the app user
 should answer the questions and submit them, then the app will tell the user how many
-questions are correct.
+questions are correctly answered.
 
 The server receives the Android app user's registration (email addresses)  and pushes the English
 articles to the app users (email addresses).
