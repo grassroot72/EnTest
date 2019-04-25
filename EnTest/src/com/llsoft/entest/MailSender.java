@@ -14,48 +14,45 @@ import javax.mail.internet.MimeMessage;
 // simple mail sender (no attachments)  
 public class MailSender {
 
-	// send text mail
-	public static void sendTextMail(MailSenderInfo mailInfo) throws MessagingException {
+  // send text mail
+  public static void sendTextMail(MailSenderInfo mailInfo) throws MessagingException {
 
-		// mail authenticator
-		MailAuthenticator authenticator = null;
-		Properties p = mailInfo.getProperties();
+    // mail authenticator
+    MailAuthenticator authenticator = null;
+    Properties p = mailInfo.getProperties();
 
-		// if authentication needed, then create one 
-		if (mailInfo.isValidate()) {
-			authenticator = new MailAuthenticator(mailInfo.getUserName(), mailInfo.getPassword());
-		}
+    // if authentication needed, then create one 
+    if (mailInfo.isValidate()) {
+      authenticator = new MailAuthenticator(mailInfo.getUserName(), mailInfo.getPassword());
+    }
 
-		// build a send mail session
-		Session sendMailSession = Session.getInstance(p, authenticator);
-			
-		// create a new message according to mail session
-		Message mailMessage = new MimeMessage(sendMailSession);
+    // build a send mail session
+    Session sendMailSession = Session.getInstance(p, authenticator);
 
-		// create mail sender's address
-		Address from = new InternetAddress(mailInfo.getFromAddress());
-		mailMessage.setFrom(from);
+    // create a new message according to mail session
+    Message mailMessage = new MimeMessage(sendMailSession);
 
-		// create mail receiver's address
-		Address to = new InternetAddress(mailInfo.getToAddress());
-		mailMessage.setRecipient(Message.RecipientType.TO, to);
-			
-		// set subject
-		mailMessage.setSubject(mailInfo.getSubject());
-			
-		// set send date
-		mailMessage.setSentDate(new Date());
+    // create mail sender's address
+    Address from = new InternetAddress(mailInfo.getFromAddress());
+    mailMessage.setFrom(from);
 
-		// set mail text content
-		String mailContent = mailInfo.getContent();
-		
-		mailMessage.setText(mailContent);
-		// mailMessage.setContent(mailContent, "text/plain; charset=UTF-8");
+    // create mail receiver's address
+    Address to = new InternetAddress(mailInfo.getToAddress());
+    mailMessage.setRecipient(Message.RecipientType.TO, to);
 
+    // set subject
+    mailMessage.setSubject(mailInfo.getSubject());
 
-		// send mail
-		Transport.send(mailMessage);
-	}
-	
+    // set send date
+    mailMessage.setSentDate(new Date());
+
+    // set mail text content
+    String mailContent = mailInfo.getContent();
+
+    mailMessage.setText(mailContent);
+
+    // send mail
+    Transport.send(mailMessage);
+  }
+
 }
-
