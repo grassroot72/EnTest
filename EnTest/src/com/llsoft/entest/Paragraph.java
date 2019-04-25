@@ -3,24 +3,14 @@ package com.llsoft.entest;
 
 public class Paragraph {
 	
-	//private String mSequence;
-	private String mContent;
-	
-	/*
-	public String getSequence() {
-		return mSequence;
-	}
+  //private String mSequence;
+  private String mContent;
 
-	public void setId(String sequence) {
-		mSequence = sequence;
-	}
-	*/
-	
-	public String getContent() {
-		return mContent;
-	}
-	
-	public void setContent(String content) {
-		mContent = content;
-	}
+  public String getContent() {
+    return mContent;
+  }
+
+  public void setContent(String content) {
+    mContent = content;
+  }
 }
