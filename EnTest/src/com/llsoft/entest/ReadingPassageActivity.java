@@ -117,7 +117,7 @@ public class ReadingPassageActivity extends BaseActivity implements OnTouchListe
       super.onBackPressed();
     }
   }
-  
+
   @Override
   protected void onDestroy() {
     readingPassageHandler.removeCallbacks(popwinRunnable);
@@ -193,7 +193,7 @@ public class ReadingPassageActivity extends BaseActivity implements OnTouchListe
     textView_title = (TextView) findViewById(R.id.tv_reading_title);
     listView_passage = (ListView) findViewById(R.id.tv_reading_passage);
   }
-  
+
   private void setupViews(ParagraphListAdapter paragraphListAdapter) {
     textView_title.setTextColor(Constants.COLOUR_DARKGRAY);
     textView_title.setText(passageTitle);
@@ -201,45 +201,45 @@ public class ReadingPassageActivity extends BaseActivity implements OnTouchListe
     // this will hide the list item divider
     listView_passage.setDivider(null);
   }
-  
+
   private void flingToQuestions() {
-    
+
     Intent readingQuestionsIntent = new Intent(ReadingPassageActivity.this, ReadingQuestionsActivity.class);
-    
+
     readingQuestionsIntent.putExtra("RowId", rowId);
     readingQuestionsIntent.putExtra("TestStatus", testStatus);
     readingQuestionsIntent.putExtra("passageFileName", passageFileName);
     readingQuestionsIntent.putExtra("millisTimeLeft", millisTimeLeft);
     startActivity(readingQuestionsIntent);
-    
+
     overridePendingTransition(R.anim.activity_enter_from_right, R.anim.activity_exit);
 
     finish();
   }
-  
+
   private ArrayList<Paragraph> parseXMLFile(String filename) {
-    
+
     ArrayList<Paragraph> list = null;
     Paragraph readingParagraph = null;
-    
+
     try {
-      
+
       File file = new File(filename);
       FileInputStream fis= new FileInputStream(file);
       BufferedInputStream bis = new BufferedInputStream(fis);
-      
+
       XmlPullParser parser = Xml.newPullParser();
       parser.setInput(bis, "utf-8");
       int event = parser.getEventType();
-      
+
       while (event != XmlPullParser.END_DOCUMENT) {
-        
+
         switch (event) {
 
         case XmlPullParser.START_DOCUMENT:
           list = new ArrayList<Paragraph>();
           break;
-          
+
         case XmlPullParser.START_TAG:
           if ("title".equals(parser.getName())) {
 
