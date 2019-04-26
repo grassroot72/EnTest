@@ -91,12 +91,10 @@ public class MailReceiver {
               isFound = true;
               break;
             }
-
           }
           catch (Throwable e) {
             // Todo
           }
-
         }
 
         disconnect();
