@@ -5,132 +5,132 @@ import java.util.Properties;
 
 // Mail sender's information
 public class MailSenderInfo {
-	
-	// SMTP host IP address and port
-	private String mSmtpHost;
-	private String mSmtpPort = "25";
-    
-	// mail sender's address 
-	private String mFromAddress;
-	// mail receiver's address
-	private String mToAddress;
-	
-	// mail user and passcode
-	private String mUsername;
-	private String mPassword;
-	
-	// validation (authentication needed)
-	private boolean mValidate = true;
-	
-	// subject
-	private String mSubject;
-	
-	// mail content 
-	private String mContent;
-	
-	// attachment names
-	private String[] mAttachFileNames;
-	
 
-	// mail session properties
-	public Properties getProperties() {
-		
-		Properties p = new Properties();
-		p.put("mail.smtp.host", mSmtpHost);
-		p.put("mail.smtp.port", mSmtpPort);
-		p.put("mail.smtp.auth", mValidate ? "true" : "false");
+  // SMTP host IP address and port
+  private String mSmtpHost;
+  private String mSmtpPort = "25";
 
-		return p;
-	}
+  // mail sender's address
+  private String mFromAddress;
+  // mail receiver's address
+  private String mToAddress;
 
-	// smtp server host
-	public String getSmtpHost() {
-		return mSmtpHost;
-	}
+  // mail user and passcode
+  private String mUsername;
+  private String mPassword;
 
-	public void setSmtpHost(String host) {
-		mSmtpHost = host;
-	}
+  // validation (authentication needed)
+  private boolean mValidate = true;
 
-	// smtp port
-	public String getSmtpPort() {
-		return mSmtpPort;
-	}
+  // subject
+  private String mSubject;
 
-	public void setSmtpPort(String port) {
-		mSmtpPort = port;
-	}
+  // mail content
+  private String mContent;
 
-	// sender's address
-	public String getFromAddress() {
-		return mFromAddress;
-	}
+  // attachment names
+  private String[] mAttachFileNames;
 
-	public void setFromAddress(String address) {
-		mFromAddress = address;
-	}
 
-	// receiver's address
-	public String getToAddress() {
-		return mToAddress;
-	}
+  // mail session properties
+  public Properties getProperties() {
 
-	public void setToAddress(String address) {
-		mToAddress = address;
-	}
-	
-	// mail user
-	public String getUserName() {
-		return mUsername;
-	}
+    Properties p = new Properties();
+    p.put("mail.smtp.host", mSmtpHost);
+    p.put("mail.smtp.port", mSmtpPort);
+    p.put("mail.smtp.auth", mValidate ? "true" : "false");
 
-	public void setUserName(String name) {
-		mUsername = name;
-	}
-	
-	// password
-	public String getPassword() {
-		return mPassword;
-	}
+    return p;
+  }
 
-	public void setPassword(String password) {
-		mPassword = password;
-	}
+  // smtp server host
+  public String getSmtpHost() {
+    return mSmtpHost;
+  }
 
-	// authentication
-	public boolean isValidate() {
-		return mValidate;
-	}
+  public void setSmtpHost(String host) {
+    mSmtpHost = host;
+  }
 
-	public void setValidate(boolean validate) {
-		mValidate = validate;
-	}
-	
-	// subject
-	public String getSubject() {
-		return mSubject;
-	}
+  // smtp port
+  public String getSmtpPort() {
+    return mSmtpPort;
+  }
 
-	public void setSubject(String subject) {
-		mSubject = subject;
-	}
+  public void setSmtpPort(String port) {
+    mSmtpPort = port;
+  }
 
-	// content
-	public String getContent() {
-		return mContent;
-	}
+  // sender's address
+  public String getFromAddress() {
+    return mFromAddress;
+  }
 
-	public void setContent(String content) {
-		mContent = content;
-	}
-	
-	// attachment names
-	public String[] getAttachFileNames() {
-		return mAttachFileNames;
-	}
+  public void setFromAddress(String address) {
+    mFromAddress = address;
+  }
 
-	public void setAttachFileNames(String[] filenames) {
-		mAttachFileNames = filenames;
-	}
+  // receiver's address
+  public String getToAddress() {
+    return mToAddress;
+  }
+
+  public void setToAddress(String address) {
+    mToAddress = address;
+  }
+
+  // mail user
+  public String getUserName() {
+    return mUsername;
+  }
+
+  public void setUserName(String name) {
+    mUsername = name;
+  }
+
+  // password
+  public String getPassword() {
+    return mPassword;
+  }
+
+  public void setPassword(String password) {
+    mPassword = password;
+  }
+
+  // authentication
+  public boolean isValidate() {
+    return mValidate;
+  }
+
+  public void setValidate(boolean validate) {
+    mValidate = validate;
+  }
+
+  // subject
+  public String getSubject() {
+    return mSubject;
+  }
+
+  public void setSubject(String subject) {
+    mSubject = subject;
+  }
+
+  // content
+  public String getContent() {
+    return mContent;
+  }
+
+  public void setContent(String content) {
+    mContent = content;
+  }
+
+  // attachment names
+  public String[] getAttachFileNames() {
+    return mAttachFileNames;
+  }
+
+  public void setAttachFileNames(String[] filenames) {
+    mAttachFileNames = filenames;
+  }
 
 }
