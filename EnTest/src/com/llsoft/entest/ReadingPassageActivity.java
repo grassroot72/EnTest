@@ -89,13 +89,13 @@ public class ReadingPassageActivity extends BaseActivity implements OnTouchListe
 
     super.onWindowFocusChanged(hasFocus);
 
-      // show the PopupWindow at the bottom
-      popwin.show();
-      popwin.setProgressBarVisibility(ProgressBar.INVISIBLE);
-      popwin.setMessage(Constants.MSG_GESTURE_LEFT, Constants.COLOUR_CYAN);
+    // show the PopupWindow at the bottom
+    popwin.show();
+    popwin.setProgressBarVisibility(ProgressBar.INVISIBLE);
+    popwin.setMessage(Constants.MSG_GESTURE_LEFT, Constants.COLOUR_CYAN);
 
-      // let the PopupWindow stay for 3 seconds
-      PopWindow.delayedDismiss(readingPassageHandler, popwinRunnable, 3000);
+    // let the PopupWindow stay for 3 seconds
+    PopWindow.delayedDismiss(readingPassageHandler, popwinRunnable, 3000);
   }
 
   @Override
